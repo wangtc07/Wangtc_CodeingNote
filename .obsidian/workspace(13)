@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "f8ac394830bf7c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6e2961cf6bf552",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Android/UI.md",
+            "mode": "source"
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      },
+      {
+        "id": "db40b5f03de215d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Android/UI.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      },
+      {
+        "id": "8906beb353d1ce31",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Android/UI.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -2.6,
+              "nodeSizeMultiplier": 3.84365086994136,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": true,
+              "centerStrength": 0.784930504754938,
+              "repelStrength": 6.24969519629359,
+              "linkStrength": 0.334674469641551,
+              "linkDistance": 250,
+              "scale": 3.9865073043055057,
+              "close": true
+            }
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e476bce4668ffac",
+    "type": "split",
+    "children": [
+      {
+        "id": "39839017544e21fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7254dcd3a4e269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acc2f811f646110e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.0036334991455
+  },
+  "right": {
+    "id": "dd0529fedf10d6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e8e1c3ec6bdb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226ec21c0c342a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Android/UI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9888a57fc4fa8ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Android/UI.md"
+              }
+            }
+          },
+          {
+            "id": "fd5aba6bc222e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "db40b5f03de215d8",
+  "lastOpenFiles": [
+    "Android/UI.md",
+    "Android/CompoundButton.md",
+    "Android/RatingBar.md",
+    "Android/SeekBar.md",
+    "Web/JSTL.md",
+    "JSTL.md",
+    "Session.md",
+    "MVC.md",
+    "Cookie.md",
+    "Cookie 記住上次訪問時間.md"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "f8ac394830bf7c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6e2961cf6bf552",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MVC.md",
+            "mode": "source"
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      },
+      {
+        "id": "db40b5f03de215d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MVC.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e476bce4668ffac",
+    "type": "split",
+    "children": [
+      {
+        "id": "39839017544e21fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7254dcd3a4e269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acc2f811f646110e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378
+  },
+  "right": {
+    "id": "dd0529fedf10d6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e8e1c3ec6bdb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226ec21c0c342a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MVC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9888a57fc4fa8ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MVC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "db40b5f03de215d8",
+  "lastOpenFiles": [
+    "MVC.md",
+    "EL表達式.md",
+    "Web/_web.md",
+    "Untitled.md",
+    "Web/JSP.md",
+    "Web/會話技術.md",
+    "Web/JSP 2.md",
+    "Session.md",
+    "Session 用戶登入 驗證碼.md",
+    "案例/重定向.md"
+  ]
+}

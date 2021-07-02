@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "bb034e357e9a83a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "94061a2bc56a2a52",
+        "type": "leaf",
+        "dimension": 40.66742081447964,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/Number.md",
+            "mode": "source"
+          }
+        },
+        "group": "747f26e46424ed99"
+      },
+      {
+        "id": "e6f85e708b0ef7f4",
+        "type": "leaf",
+        "dimension": 44.73981900452489,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java/Number.md",
+            "mode": "preview"
+          }
+        },
+        "group": "747f26e46424ed99"
+      },
+      {
+        "id": "85b61b35a24c19d5",
+        "type": "leaf",
+        "dimension": 14.592760180995477,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Java/Number.md"
+          }
+        },
+        "group": "747f26e46424ed99"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1edc668a7c371c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cafa63fe335f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f6b7e4485069a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73ee4d7d9de07c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "uerySelector",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.01218795776367
+  },
+  "right": {
+    "id": "e8f447c98969305e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50c5e7daa4c873a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a3dcf4589a39b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Number.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b767abc4eddab33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Number.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.2001037597656,
+    "collapsed": true
+  },
+  "active": "94061a2bc56a2a52",
+  "lastOpenFiles": [
+    "Java/Untitled.md",
+    "JDBC/JDBC_intro.md",
+    "Javascript/Basic/36_正規表達式.md",
+    "Javascript/Basic/Untitled.md",
+    "Javascript/Basic/13_String.md",
+    "Javascript/Basic/32_Date.md",
+    "Javascript/Basic/29_陣列.md",
+    "Javascript/Basic/15_函數.md",
+    "Javascript/Basic/19_對象.md",
+    "Javascript/Basic/23_JS_Debug.md"
+  ]
+}

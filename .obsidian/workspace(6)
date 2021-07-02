@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "bb034e357e9a83a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa29966bca4fea0e",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/_web.md",
+            "mode": "source"
+          }
+        },
+        "group": "50b9a4403e1364a0"
+      },
+      {
+        "id": "8c652f4e5daf9a9b",
+        "type": "leaf",
+        "dimension": 25,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/_web.md",
+            "mode": "preview"
+          }
+        },
+        "group": "50b9a4403e1364a0"
+      },
+      {
+        "id": "8fa9ee9a521396a9",
+        "type": "leaf",
+        "dimension": 6.25,
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "c46c75c058faa9f1"
+      },
+      {
+        "id": "fefc232621d9b8ed",
+        "type": "leaf",
+        "dimension": 6.25,
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "c46c75c058faa9f1"
+      },
+      {
+        "id": "b9b9ad539bb791b9",
+        "type": "leaf",
+        "dimension": 12.5,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/HTTP.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1edc668a7c371c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cafa63fe335f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f6b7e4485069a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73ee4d7d9de07c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Request",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237
+  },
+  "right": {
+    "id": "e8f447c98969305e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50c5e7daa4c873a",
+        "type": "tabs",
+        "dimension": 28.02491103202847,
+        "children": [
+          {
+            "id": "02a3dcf4589a39b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b767abc4eddab33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dedf13951a49a2de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd7a49a99ad33306",
+        "type": "tabs",
+        "dimension": 71.97508896797153,
+        "children": [
+          {
+            "id": "85b61b35a24c19d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239,
+    "collapsed": true
+  },
+  "active": "8fa9ee9a521396a9",
+  "lastOpenFiles": [
+    "Web/servlet.md",
+    "Web/HTTP.md",
+    "Web/_web.md",
+    "Web/web 概念.md",
+    "Web/Java_web.md",
+    "Web/Socket.md",
+    "servlet.md",
+    "Programer Map.md",
+    "Apache Tomcat.md",
+    "No artifacts marked for deployment.md"
+  ]
+}

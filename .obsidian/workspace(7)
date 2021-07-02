@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "bb034e357e9a83a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa29966bca4fea0e",
+        "type": "leaf",
+        "dimension": 58.18181818181817,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/_web.md",
+            "mode": "source"
+          }
+        },
+        "group": "50b9a4403e1364a0"
+      },
+      {
+        "id": "8c652f4e5daf9a9b",
+        "type": "leaf",
+        "dimension": 29.090909090909086,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/_web.md",
+            "mode": "preview"
+          }
+        },
+        "group": "50b9a4403e1364a0"
+      },
+      {
+        "id": "8fa9ee9a521396a9",
+        "type": "leaf",
+        "dimension": 7.272727272727272,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/servlet.md",
+            "mode": "source"
+          }
+        },
+        "group": "c46c75c058faa9f1"
+      },
+      {
+        "id": "fefc232621d9b8ed",
+        "type": "leaf",
+        "dimension": 1.818181818181818,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/servlet.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c46c75c058faa9f1"
+      },
+      {
+        "id": "30e1558047edafa8",
+        "type": "leaf",
+        "dimension": 1.818181818181818,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/JSP_Ch01.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "94df2959a614c1a1",
+        "type": "leaf",
+        "dimension": 1.818181818181818,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/JDBC_intro.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1edc668a7c371c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cafa63fe335f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f6b7e4485069a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73ee4d7d9de07c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "截圖 2021-06-17",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e8f447c98969305e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50c5e7daa4c873a",
+        "type": "tabs",
+        "dimension": 28.02491103202847,
+        "children": [
+          {
+            "id": "02a3dcf4589a39b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/servlet.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b767abc4eddab33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/servlet.md"
+              }
+            }
+          },
+          {
+            "id": "dedf13951a49a2de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd7a49a99ad33306",
+        "type": "tabs",
+        "dimension": 71.97508896797153,
+        "children": [
+          {
+            "id": "85b61b35a24c19d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/servlet.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239,
+    "collapsed": true
+  },
+  "active": "fefc232621d9b8ed",
+  "lastOpenFiles": [
+    "Web/servlet.md",
+    "Web/JDBC_intro.md",
+    "eclipse/eclipse.md",
+    "Web/JSP_Ch01.md",
+    "Apache Tomcat.md",
+    "Web/JDBC Drive.md",
+    "用戶登入.md",
+    "Spring 概述.md",
+    "Spring.md",
+    "Javascript/_Data/_photo/截圖 2021-06-17 下午11.34.56.png"
+  ]
+}

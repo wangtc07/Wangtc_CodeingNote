@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "bb034e357e9a83a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa29966bca4fea0e",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/example/Propagation.md",
+            "mode": "source"
+          }
+        },
+        "group": "50b9a4403e1364a0"
+      },
+      {
+        "id": "8c652f4e5daf9a9b",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/example/Propagation.md",
+            "mode": "preview"
+          }
+        },
+        "group": "50b9a4403e1364a0"
+      },
+      {
+        "id": "6338d308a4666a09",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Javascript/Basic/37_獲取對象.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1edc668a7c371c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cafa63fe335f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f6b7e4485069a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73ee4d7d9de07c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "冒泡",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 489,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e8f447c98969305e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50c5e7daa4c873a",
+        "type": "tabs",
+        "dimension": 28.02491103202847,
+        "children": [
+          {
+            "id": "02a3dcf4589a39b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript/example/Propagation.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b767abc4eddab33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/example/Propagation.md"
+              }
+            }
+          },
+          {
+            "id": "dedf13951a49a2de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd7a49a99ad33306",
+        "type": "tabs",
+        "dimension": 71.97508896797153,
+        "children": [
+          {
+            "id": "85b61b35a24c19d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript/example/Propagation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "active": "fa29966bca4fea0e",
+  "lastOpenFiles": [
+    "Javascript/example/Propagation.md",
+    "Javascript/Basic/37_獲取對象.md",
+    "Javascript/_JacaScript_note.md",
+    "Javascript/Web Storage.md",
+    "Javascript/Untitled.md",
+    "Javascript/Basic/37_DOM.md",
+    "Javascript/flexbox.md",
+    "Javascript/HTML5 Drag & Drop API.md",
+    "Javascript/Basic/_JacaScript_basic.md",
+    "Java/IO.md"
+  ]
+}

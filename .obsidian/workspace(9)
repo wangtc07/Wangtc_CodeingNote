@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f8ac394830bf7c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bf1f9528f43d3ba",
+        "type": "leaf",
+        "dimension": 7.084745762711864,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Request.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d810b711f9f1f9f5",
+        "type": "leaf",
+        "dimension": 7.084745762711864,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Request.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e11e7888130ecd68",
+        "type": "leaf",
+        "dimension": 14.983050847457626,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/會話技術.md",
+            "mode": "source"
+          }
+        },
+        "group": "766e340da16dc10f"
+      },
+      {
+        "id": "dff241c9235ac490",
+        "type": "leaf",
+        "dimension": 14.169491525423728,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/會話技術.md",
+            "mode": "preview"
+          }
+        },
+        "group": "766e340da16dc10f"
+      },
+      {
+        "id": "51a1479759779de3",
+        "type": "leaf",
+        "dimension": 14.169491525423728,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6f6e89ae83ff0659",
+        "type": "leaf",
+        "dimension": 14.169491525423728,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e58e79273605762d",
+        "type": "leaf",
+        "dimension": 14.169491525423728,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Session 驗證碼.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5f8d1c94b3a8d9ad",
+        "type": "leaf",
+        "dimension": 14.169491525423728,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "案例/用戶登入.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e476bce4668ffac",
+    "type": "split",
+    "children": [
+      {
+        "id": "39839017544e21fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7254dcd3a4e269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acc2f811f646110e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "getParameterMap",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315
+  },
+  "right": {
+    "id": "dd0529fedf10d6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e8e1c3ec6bdb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226ec21c0c342a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Session 驗證碼.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9888a57fc4fa8ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Session 驗證碼.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e58e79273605762d",
+  "lastOpenFiles": [
+    "Session 驗證碼.md",
+    "Web/Request.md",
+    "案例/用戶登入.md",
+    "Web/會話技術.md",
+    "JSP-Ch05_EL.md",
+    "Session.md",
+    "Cookie.md",
+    "Web/JSP.md",
+    "Web/_web.md",
+    "Java/IO_Reader_Writer_copy_java.md"
+  ]
+}

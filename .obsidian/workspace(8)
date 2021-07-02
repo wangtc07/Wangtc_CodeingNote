@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "bb034e357e9a83a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6583ff3509db8c4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Staement.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "14e32be5e361af53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/ResultSet 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "63410fee9dbba528",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Staement.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "80d33370d20f88c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Connection.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "08d9017cb932c436",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6bd645b160864ec4",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/會話技術.md",
+            "mode": "source"
+          },
+          "pinned": true
+        },
+        "group": "439467e61ccd46f3"
+      },
+      {
+        "id": "4ead174ae8311371",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/會話技術.md",
+            "mode": "preview"
+          }
+        },
+        "group": "439467e61ccd46f3"
+      },
+      {
+        "id": "1f3187e3f72dbf4a",
+        "type": "split",
+        "children": [
+          {
+            "id": "46bba3a61cba8c8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cookie 記住上次訪問時間.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "cd8661654126524f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cookie 記住上次訪問時間.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1edc668a7c371c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cafa63fe335f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f6b7e4485069a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73ee4d7d9de07c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "DataSource",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416
+  },
+  "right": {
+    "id": "e8f447c98969305e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50c5e7daa4c873a",
+        "type": "tabs",
+        "dimension": 28.02491103202847,
+        "children": [
+          {
+            "id": "02a3dcf4589a39b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/ResultSet 1.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b767abc4eddab33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/ResultSet 1.md"
+              }
+            }
+          },
+          {
+            "id": "dedf13951a49a2de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd7a49a99ad33306",
+        "type": "tabs",
+        "dimension": 71.97508896797153,
+        "children": [
+          {
+            "id": "85b61b35a24c19d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/ResultSet 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "active": "14e32be5e361af53",
+  "lastOpenFiles": [
+    "Web/ResultSet 1.md",
+    "Web/ResultSet.md",
+    "Web/Staement.md",
+    "Web/數據庫連接池.md",
+    "Web/JDBC_intro.md",
+    "Web/Connection.md",
+    "Web/JDBC Drive.md",
+    "git.md",
+    "Cookie 記住上次訪問時間.md",
+    "Web/會話技術.md"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f8ac394830bf7c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac6e2961cf6bf552",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programer Map.md",
+            "mode": "source"
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      },
+      {
+        "id": "db40b5f03de215d8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programer Map.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      },
+      {
+        "id": "8906beb353d1ce31",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Programer Map.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -2.6,
+              "nodeSizeMultiplier": 3.84365086994136,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": true,
+              "centerStrength": 0.784930504754938,
+              "repelStrength": 6.24969519629359,
+              "linkStrength": 0.334674469641551,
+              "linkDistance": 250,
+              "scale": 3.89332424311417,
+              "close": true
+            }
+          }
+        },
+        "group": "8d223bf4a333fdc9"
+      },
+      {
+        "id": "cd6ec0baae78513f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "54087ccb7d3026f4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e476bce4668ffac",
+    "type": "split",
+    "children": [
+      {
+        "id": "39839017544e21fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7254dcd3a4e269",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acc2f811f646110e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "session",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5036334991455
+  },
+  "right": {
+    "id": "dd0529fedf10d6e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "41e8e1c3ec6bdb32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226ec21c0c342a99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9888a57fc4fa8ff0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "fd5aba6bc222e4b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "54087ccb7d3026f4",
+  "lastOpenFiles": [
+    "README.md",
+    "Web/Cookie.md",
+    "Programer Map.md",
+    "Web/Session.md",
+    "案例/用戶登入.md",
+    "案例/Session 用戶登入 驗證碼.md",
+    "Web/會話技術.md",
+    "Web/MVC.md",
+    "Web/JSP.md",
+    "案例/重定向.md"
+  ]
+}
