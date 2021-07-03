@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/三層架構.md",
+            "file": "git.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/三層架構.md",
+            "file": "git.md",
             "mode": "preview"
           }
         },
@@ -33,7 +33,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Web/三層架構.md",
+            "file": "git.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/三層架構.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/三層架構.md"
+                "file": "git.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "ac6e2961cf6bf552",
   "lastOpenFiles": [
+    "git.md",
     "Web/三層架構.md",
     "Web/_web.md",
     "Web/MVC.md",
@@ -164,7 +165,6 @@
     "Web/JSTL.md",
     "Web/EL表達式.md",
     "Javascript/flexbox.md",
-    "案例/Session 用戶登入 驗證碼.md",
-    "Web/會話技術.md"
+    "案例/Session 用戶登入 驗證碼.md"
   ]
 }
