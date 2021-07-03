@@ -7,6 +7,7 @@
 	- 獲取用戶輸入
 	- 調用model
 	- 將數據交給View操作
+		- [[EL表達式]]
 
 ![](https://i.imgur.com/deVHu1V.png)
 
