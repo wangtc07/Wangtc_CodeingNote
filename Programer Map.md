@@ -28,6 +28,6 @@ Filter 過濾器
 - ## css
 - ## Javascript
 	- ### JacaScript
-		- [[_JacaScript_basic]]
+		- [[_JS_intro]]
 	- ### jQuery
 	- ### VUE

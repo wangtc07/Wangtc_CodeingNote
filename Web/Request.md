@@ -2,9 +2,9 @@
 	1. Request Response 是由服務器創建，我們來使用
 	2. Request: 獲取請求消息 
 		Response: 設置響應消息
-##### Request 結構
+# Request 結構
 	- ![](https://i.imgur.com/u74dRWi.png)
-##### Request 方法
+# Request 方法
 - 獲取請求行
 	- String [getMethod](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/http/HttpServletRequest.html#getMethod--)()
 	- String [getContextPath](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/http/HttpServletRequest.html#getContextPath--)()
@@ -73,13 +73,13 @@
 // 獲取請求頭  
   
 // 頭名稱  
-Enumeration<String\> headerNames \= request.getHeaderNames();  
+Enumeration<String> headerNames = request.getHeaderNames();  
 // 遍歷  
 while (headerNames.hasMoreElements()) {  
- String name \= headerNames.nextElement();  
+ String name = headerNames.nextElement();  
  // 根據名稱獲得請求頭的值  
- String header \= request.getHeader(name);  
- System.out.println(name \+ "---" \+ header);
+ String header = request.getHeader(name);  
+ System.out.println(name + "---" + header);
 ```
 <br>
 
@@ -89,20 +89,20 @@ while (headerNames.hasMoreElements()) {
 	- 
 
 		```html
-		<form action\="/web\_demo\_war\_exploded/ServletRequestDemo5" method\="post"\>  
-		 <input type\="text" PLACEHOLDER\="帳號" name\="username"\><br>  
-		 <input type\="text" placeholder\="密碼" name\="password"\><br>  
-		 <input type\="submit" value\="註冊"\>  
+		<form action="/web_demo_war_exploded/ServletRequestDemo5" method="post"\>  
+		 <input type="text" PLACEHOLDER="帳號" name="username"\><br>  
+		 <input type="text" placeholder="密碼" nam="password"\><br>  
+		 <input type="submit" value="註冊"\>  
 		  
 		</form>
 		```
 		```java
 		// 請求消息  
 		  
-		BufferedReader br \= request.getReader();  
+		BufferedReader br = request.getReader();  
 		  
-		String line \= null;  
-		while ((line \= br.readLine()) != null) {  
+		String line = null;  
+		while ((line = br.readLine()) != null) {  
 		 System.out.println(line);  
 		}
 		```
@@ -126,12 +126,12 @@ while (headerNames.hasMoreElements()) {
 	
 	2. 請求轉發
 		> 特點: 
-		> 1.瀏覽器網址不產生變化
+		> 1.瀏覽器網址不產生變化 (==重整後會發出同樣請求==)
 		> 2.只能轉發內部資源
 		> 3.一次請求
-		1. 獲取RequestDispatcher對象
+		1. ==獲取RequestDispatcher對象==
 			- [RequestDispatcher](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/RequestDispatcher.html "interface in javax.servlet")  &nbsp[getRequestDispatcher](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/ServletRequest.html#getRequestDispatcher-java.lang.String-)  (String path)
-		2. 再使用 `RequestDispatcher` 的方法轉法
+		2. 再使用 `RequestDispatcher` 的方法==轉法==
 			[forward](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/RequestDispatcher.html#forward-javax.servlet.ServletRequest-javax.servlet.ServletResponse-)([ServletRequest](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/ServletRequest.html "interface in javax.servlet") request, [ServletResponse](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/ServletResponse.html "interface in javax.servlet") response)
 			![](https://i.imgur.com/tpxYL1o.png)
 	3. 共享數據
@@ -147,3 +147,13 @@ while (headerNames.hasMoreElements()) {
 		- ServletContext &nbsp [getServletContext](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/ServletRequest.html#getServletContext--)()
 
 <br><br><br>
+
+## URL模式
+
+```java
+getRequestURL() = http://localhost:8080/java/resources/request.jsp
+getRequestURI() = java/resources/request.jsp
+getContextPath() = java
+getServletPath() = resources/request.jsp
+getPathInfo()= request.jsp
+```

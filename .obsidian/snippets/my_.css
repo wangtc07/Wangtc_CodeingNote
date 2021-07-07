@@ -2493,7 +2493,8 @@ span.CodeMirror-selectedtext {
   margin-top: -0.2em;
 }
 .cm-s-obsidian span.cm-inline-code {
-  color: var(--text-muted);
+  /* color: var(--text-muted); */
+  color: #618ac3;
   /*#c7254e*/
   font-size: 100%;
   background-color: var(--background-primary-alt);
@@ -3584,8 +3585,8 @@ body.is-hovering-clickable * {
   mix-blend-mode: var(--highlight-mix-blend-mode);
 }
 .markdown-preview-view code {
-  color: #1bb32b;
-  font-size: 0.9em;
+  color: #8bb5f0;
+  font-size: 1em;
   font-family: var(--font-monospace);
   font-weight: normal;
   background-color: var(--background-primary-alt);

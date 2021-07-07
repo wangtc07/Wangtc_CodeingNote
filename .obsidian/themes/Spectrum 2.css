@@ -742,7 +742,7 @@ pre code {
 code,
 .cm-inline-code {
   background-color: var(--pre-code) !important;
-  color: #618ac3 !important;
+  /* color: #618ac3 !important; */
   /* color: var(--text-muted) !important; */
   bottom: 0px !important;
 }
@@ -850,6 +850,7 @@ ul li {
 
 ol li {
   margin: 5px;
+  margin-bottom: 1.8rem;
 }
 
 ul li::marker {

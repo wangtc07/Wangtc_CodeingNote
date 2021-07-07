@@ -50,7 +50,17 @@
 
 
 ![](https://i.imgur.com/TEO1AoQ.png)
-		
+
+- 在Cookie被禁用的情況下使用url rewrite機制保持Session
+	- `String encodeRedirectURL(String url)`
+		- 功能
+			`http://xxx.com/abc?a=b` 
+			👇`http://xxx.com/abc;jsessionid=D97956894C4330053A84DBE6FA7E8AC2?a=b`
+			- 
+				```java
+				response.sendRedirect(
+				response.encodeRedirectURL("InsertMemberSuccess.jsp"));
+				```
 		
 
 ## 特點

@@ -33,7 +33,7 @@
 
 
 ---
-## Servlet3.0
+# Servlet3.0
 > 支持註解配置
 > 可以不需要web.xml
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Servlet 結構
+# Servlet 結構
 All Known Implementing Classes:
 [FacesServlet](https://javaee.github.io/javaee-spec/javadocs/javax/faces/webapp/FacesServlet.html "class in javax.faces.webapp"), [GenericServlet](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/GenericServlet.html "class in javax.servlet"), [HttpServlet](https://javaee.github.io/javaee-spec/javadocs/javax/servlet/http/HttpServlet.html "class in javax.servlet.http")
 ![](https://i.imgur.com/CiwNqEs.png)
@@ -73,7 +73,7 @@ All Known Implementing Classes:
 	- `@Override doPost`
 
 #### Request
-[[Request]]
+![[Request]]
 
 ---
 #### Response 
@@ -98,7 +98,7 @@ All Known Implementing Classes:
 
 
 ---
-## Servlet 配置
+# Servlet 配置
 - 定義多個虛擬路徑可訪問
 	```java
 	@WebServlet({"/d1" , "/d2" , "d3"})
@@ -111,8 +111,13 @@ All Known Implementing Classes:
 ---
 
 
-## ServletContext
+# ServletContext
 ![[ServeltContext]]
+
+
+# servlet初始化參數
+![[servlet初始化參數]]
+
 
 
 # 案例

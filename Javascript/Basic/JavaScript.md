@@ -1,6 +1,7 @@
-[[_JacaScript intro]]
-[[_JacaScript_note]]
+[[_JavaScript intro]]
+[[_JavaScript_note]]
 
+---
 [[15_函數]]
 [[19_對象]]
 [[23_JS_Debug]]
@@ -21,8 +22,3 @@
 [[36_常用正規表達式]]
 [[37_獲取對象]]
 [[37_DOM]]
-
-
----
-# class
-[[Web Storage]]
