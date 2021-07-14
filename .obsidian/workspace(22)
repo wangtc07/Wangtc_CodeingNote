@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ajax&Json 2.md",
-            "mode": "source"
-          }
-        },
-        "group": "f565fdaafcece4a1"
-      },
-      {
-        "id": "b577bc216092006e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ajax&Json 2.md",
+            "file": "Web/servlet.md",
             "mode": "preview"
           }
-        },
-        "group": "f565fdaafcece4a1"
+        }
       }
     ],
     "direction": "vertical"
@@ -65,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1bef7f9fdafbf4fb",
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ajax&Json 2.md",
+                "file": "Web/servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ajax&Json 2.md"
+                "file": "Web/servlet.md"
               }
             }
           }
@@ -112,15 +98,7 @@
   },
   "active": "b34e4cb6b9758cf6",
   "lastOpenFiles": [
-    "Ajax&Json 2.md",
-    "AJAX.md",
-    "Ajax&Json.md",
-    "Untitled.md",
-    "演算法/背包問題.md",
-    "背包問題.md",
-    "演算法/案例.md",
-    "演算法/遞迴.md",
-    "演算法/斐波那契數.md",
-    "斐波那契數.md"
+    "Web/servlet.md",
+    "Untitled.md"
   ]
 }

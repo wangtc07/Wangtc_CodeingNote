@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "98f816ec253a8e21",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e2145860acccf9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "案例/Filter 用戶登入.md",
+            "mode": "source"
+          }
+        },
+        "group": "0166ac260a025b3d"
+      },
+      {
+        "id": "f4a7347abd926854",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "案例/Filter 用戶登入.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0166ac260a025b3d"
+      },
+      {
+        "id": "414af72a79dab32a",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "案例/Filter 用戶登入.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -3,
+              "nodeSizeMultiplier": 5,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": false,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 2.9284771283254885,
+              "close": true
+            }
+          }
+        },
+        "group": "0166ac260a025b3d"
+      },
+      {
+        "id": "8d0c0f4f1693ec20",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Filter.md",
+            "mode": "source"
+          }
+        },
+        "group": "d6782ddb39e89b1a"
+      },
+      {
+        "id": "d47ac2f059f4186c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Filter.md",
+            "mode": "preview"
+          }
+        },
+        "group": "d6782ddb39e89b1a"
+      },
+      {
+        "id": "da067d7f5a2e98ff",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Web/Filter.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": true,
+              "textFadeMultiplier": -3,
+              "nodeSizeMultiplier": 4.3924,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": false,
+              "centerStrength": 0.95446047008547,
+              "repelStrength": 13.2291666666667,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 3.880191383301086,
+              "close": true
+            }
+          }
+        },
+        "group": "d6782ddb39e89b1a"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2189f7d00048001f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8556954ddb524382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca336ed78495d8d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91ccf97a5949c22e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "轉發",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425
+  },
+  "right": {
+    "id": "c2f62543a4db9a11",
+    "type": "split",
+    "children": [
+      {
+        "id": "1857189be1327835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd119de2feec5ccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/Filter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc33dcab5ea6ee89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21dcefd9734e2016",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web/Filter.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d47ac2f059f4186c",
+  "lastOpenFiles": [
+    "Web/Filter.md",
+    "案例/Filter 用戶登入.md",
+    "案例/JSP 課堂作業.md",
+    "Web/_web.md",
+    "案例/Session 用戶登入 驗證碼.md",
+    "案例/JSP 綜合練習.md",
+    "JSP 綜合練習.md",
+    "Web/servlet.md",
+    "案例/用戶登入.md",
+    "Web/Request.md"
+  ]
+}

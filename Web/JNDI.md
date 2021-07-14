@@ -21,7 +21,7 @@
 	```xml
 	<resource-ref>  
 		<description>說明性文字</description> 
-		<res-ref-name>jdbc/BlobClobDEMO</res-ref-name > 
+		<res-ref-name>jdbc/MemberDB</res-ref-name > 
 		<res-type>javax.sql.DataSource</res-type> 
 		<res-auth>Container</res-auth> //身份驗證
 	</resource-ref>
@@ -38,7 +38,8 @@ InitialContext context = new InitialContext();
 
 DataSource ds =(DataSource) context.lookup("java:comp/env/jdbc/MemberDB"); 
 
-Connection conn1 = ds.getConnection(); // 當<res-auth>為CONTAINER
+Connection conn1 = ds.getConnection(); 
+// 當<res-auth>為CONTAINER
 
 Connection conn2 = ds.getConnection("user", "password"); 
 //當<res-auth>為 SERVLET

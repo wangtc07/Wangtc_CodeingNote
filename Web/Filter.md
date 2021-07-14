@@ -9,12 +9,12 @@
 
 - 入門
 	- 步驟
-		- 定義類，實現 `Filter` 接口
-		- 複寫方法
+		1. 定義類，實現 `Filter` 接口
+		1. 複寫方法
 			- `init()`
 			- `doFilter()`
 			- `destroy()`
-		- 配置攔截路徑
+		1. 配置攔截路徑
 			- web.xml
 				- ![](https://i.imgur.com/ludjDCO.png)
 
@@ -24,7 +24,7 @@
 				- `/user/*`
 			- 後綴名攔截
 				- `*.jsp`
-		- 攔截方式配置
+		1. 攔截方式配置
 			- 資源被訪問的方式
 			- 註解
 				- 設置 `dispatcherTypes` 屬性
@@ -38,12 +38,13 @@
 						- 異步訪問資源
 					- `ERROR`
 						- 錯誤跳轉資源
-	- 放行
-		- 
-			```java
-			// 放行
-			filterChain.doFilter(servletRequest,servletResponse);
-			```
+		2. 放行
+			- 
+				```java
+				// 放行
+				filterChain.doFilter(servletRequest,
+					servletResponse);
+				```
 - 過濾器鏈
 	- 請求時先攔截的，回應時後攔截
 	- 過濾器先後順序
