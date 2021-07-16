@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Ajax&Json.md",
+            "file": "Ajax&Json 2.md",
             "mode": "source"
           }
         },
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Ajax&Json.md",
-            "mode": "preview"
+            "file": "Ajax&Json 2.md",
+            "mode": "source"
           }
         },
         "group": "f565fdaafcece4a1"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Ajax&Json.md",
+                "file": "Ajax&Json 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Ajax&Json.md"
+                "file": "Ajax&Json 2.md"
               }
             }
           }
@@ -109,9 +109,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b577bc216092006e",
+  "active": "b34e4cb6b9758cf6",
   "lastOpenFiles": [
-    "Web/Ajax&Json.md",
     "Ajax&Json 2.md",
     "AJAX.md",
     "Web/JSP.md",
@@ -120,6 +119,7 @@
     "Web/Request.md",
     "Java/Data.md",
     "Javascript/Basic/32_Date.md",
-    "案例/格式化日期.md"
+    "案例/格式化日期.md",
+    "Ajax&Json.md"
   ]
 }

@@ -78,7 +78,9 @@
 					dataType:"text"//設定接受到的響應資料的格式
 				});
 				```
-		2. `$.get()`：傳送get請求
+			- JS文件中獲取 `contextPath` 的方法
+				- [JS文件中獲取contextPath的方法](https://blog.csdn.net/zhuchunyan_aijia/article/details/51568521)
+		1. `$.get()`：傳送get請求
 			* 語法：`$.get(url, [data], [callback], [type])`
 				* 引數：
 					* url：請求路徑
