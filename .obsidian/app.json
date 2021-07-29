@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Javascript/_Data/_photo"
+}

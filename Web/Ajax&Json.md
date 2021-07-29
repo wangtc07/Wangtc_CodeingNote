@@ -82,7 +82,7 @@
 				- [JS文件中獲取contextPath的方法](https://blog.csdn.net/zhuchunyan_aijia/article/details/51568521)
 		1. `$.get()`：傳送get請求
 			* 語法：`$.get(url, [data], [callback], [type])`
-				* 引數：
+				* 參數：
 					* url：請求路徑
 					* data：請求引數
 					* callback：回撥函式
@@ -90,7 +90,7 @@
 
 		3. `$.post()`：傳送post請求
 			* 語法：`$.post(url, [data], [callback], [type])`
-				* 引數：
+				* 參數：
 					* url：請求路徑
 					* data：請求引數
 					* callback：回撥函式
@@ -99,23 +99,21 @@
 
 
 # JSON：
-1. 概念： JavaScript Object Notation		JavaScript物件表示法
-	Person p = new Person();
-	p.setName("張三");
-	p.setAge(23);
-	p.setGender("男");
-
+1. 概念： 
+	JavaScript Object Notation
+	_JavaScript物件表示法_
+	```js
 	var p = {"name":"張三","age":23,"gender":"男"};
-
-	* json現在多用於儲存和交換文字資訊的語法
-	* 進行資料的傳輸
+	 ```
+	* json現在多用於 _儲存_ 和 _交換文字資訊_ 的語法
+	* 進行 _資料的傳輸_
 	* JSON 比 XML 更小、更快，更易解析。
 
 2. 語法：
 	1. 基本規則
-		* 資料在名稱/值對中：json資料是由鍵值對構成的
-			* 鍵用引號(單雙都行)引起來，也可以不使用引號
-			* 值得取值型別：
+		* 資料在名稱/值對中：json資料是由 _鍵值對_ 構成的
+			* _鍵_ 用引號(單雙都行)引起來，也可以不使用引號
+			* _值_ 得取值型別：
 				1. 數字（整數或浮點數）
 				2. 字串（在雙引號中）
 				3. 邏輯值（true 或 false）
@@ -127,34 +125,52 @@
 		* 方括號儲存陣列：[]
 	2. 獲取資料:
 		1. json物件.鍵名
+			- `person.name;`
 		2. json物件["鍵名"]
+			- `person["name"];`
 		3. 陣列物件[索引]
 		4. 遍歷
-				 //1.定義基本格式
-				var person = {"name": "張三", age: 23, 'gender': true};
+	```js
+	//1.定義基本格式
+	var person = {"name": "張三", age: 23, 'gender': true};
+	
+	//2.嵌套格式   {}———> []
+	var persons = {  
+		 "persons": [  
+			 {"name": "张三", "age": 23, "gender": true},  
+			 {"name": "李四", "age": 24, "gender": true},  
+			 {"name": "王五", "age": 25, "gender": false}  
+		 ]
+	 };
+	 //获取王五值  
+	var name1 = persons.persons[2].name;
+	 
+	//2.嵌套格式   []———> {}
+	var ps = [{"name": "張三", "age": 23, "gender": true},
+		{"name": "李四", "age": 24, "gender": true},
+		{"name": "王五", "age": 25, "gender": false}];
+	//获取李四值
+	var name2 = ps[1].name;
 
-				var ps = [{"name": "張三", "age": 23, "gender": true},
-					{"name": "李四", "age": 24, "gender": true},
-					{"name": "王五", "age": 25, "gender": false}];
 
 
 
+	//獲取person物件中所有的鍵和值
+	//for in 迴圈
+   for(var key in person){
+		//這樣的方式獲取不行。因為相當於  person."name"
+		//alert(key + ":" + person.key);
+		alert(key+":" + person[key]);
+	}
 
-				//獲取person物件中所有的鍵和值
-				//for in 迴圈
-			   /* for(var key in person){
-					//這樣的方式獲取不行。因為相當於  person."name"
-					//alert(key + ":" + person.key);
-					alert(key+":"+person[key]);
-				}*/
-
-			   //獲取ps中的所有值
-				for (var i = 0; i < ps.length; i++) {
-					var p = ps[i];
-					for(var key in p){
-						alert(key+":"+p[key]);
-					}
-				}
+   //獲取ps中的所有值
+	for (var i = 0; i < ps.length; i++) {
+		var p = ps[i];
+		for(var key in p){
+			alert(key+":"+p[key]);
+		}
+	}
+	```
 
 
 3. JSON資料和Java物件的相互轉換
@@ -166,39 +182,99 @@
 		1. 匯入jackson的相關jar包
 		2. 建立Jackson核心物件 ObjectMapper
 		3. 呼叫ObjectMapper的相關方法進行轉換
-			1. readValue(json字串資料,Class)
+			1. `readValue(json字串資料,Class)`
 	2. Java物件轉換JSON
 		1. 使用步驟：
 			1. 匯入jackson的相關jar包
 			2. 建立Jackson核心物件 ObjectMapper
 			3. 呼叫ObjectMapper的相關方法進行轉換
 				1. 轉換方法：
-					* writeValue(引數1，obj):
+					* `writeValue(引數1，obj)`:
 						引數1：
 							File：將obj物件轉換為JSON字串，並儲存到指定的檔案中
 							Writer：將obj物件轉換為JSON字串，並將json資料填充到字元輸出流中
 							OutputStream：將obj物件轉換為JSON字串，並將json資料填充到位元組輸出流中
-					* writeValueAsString(obj):將物件轉為json字串
+					* `writeValueAsString(obj)`:將物件轉為json字串
 
 				2. 註解：
 					1. @JsonIgnore：排除屬性。
 					2. @JsonFormat：屬性值得格式化
-						* @JsonFormat(pattern = "yyyy-MM-dd")
+						* `@JsonFormat(pattern = "yyyy-MM-dd")`
 
 				3. 複雜java物件轉換
-					1. List：陣列
-					2. Map：物件格式一致
+					1. `List` 👉 陣列
+					2. `Map`  👉 物件格式一致
 
 
 # 案例：
 * 校驗使用者名稱是否存在
 	1. 伺服器響應的資料，在客戶端使用時，要想當做json資料格式使用。有兩種解決方案：
-		1. $.get(type):將最後一個引數type指定為"json"
-		2. 在伺服器端設定MIME型別
+		1. `$.get(type)` :將最後一個引數type指定為"json"
+		2. 在伺服器端 _設定MIME型別_
+			```java
 			response.setContentType("application/json;charset=utf-8");
+			```
 
 
 
-
+# SpringMVC AJAX
+1. 參數前加 `@RequestBody` 
+	1. 👉 ajax 要加上 `contentType:'application/json;charset=utf-8'`
+		說明傳遞的是 _json 格式_
+	1. 傳遞的 json 對象要用 `JSON.stringify(data);` 
+		將動態的 Object 轉成 _靜態json String_
+	```java
+	public String calendercopy(@RequestBody Map<String,Object> paramsMap){
+		System.out.println(paramsMap);
+		// {day=June.1.2021}
+		System.out.println(paramsMap.get("day"));
+		// June.1.2021
+	}
+	```
+	```js
+	$.ajax({
+		url: "controller", // 请求路径
+		type: "POST", //请求方式
+	
+		contentType: "application/json; charset=utf-8",
+		data: JSON.stringify({'day': day }) ,
+	
+		dataType: "json", //设置接受到的响应数据的格式
+		success: function (data) {
+		},//响应成功后的回调函数
+		error: function () {
+		},
+	});
+	```
+1. jQuery AJAX 預設的 Content-Type 格式
+	- `Content-Type: application/x-www-form-urlencoded; charset=UTF-8`
+		是以 _鍵值對拼接_ 的形式，如 `name=abc&phone=123456`，並不是application/json那樣的json格式`{"name":"abc","phone":"123456"}`
+	- _參數必須改成_ `@RequestParam` 
+	- `request.getParameter()` 可以用key得到value
+	```java
+	public String calendercopy(@RequestParam Map<String,Object> paramsMap , HttpServletRequest request) throws JsonProcessingException {
+		System.out.println(request.getParameter("day"));
+		// June.1.2021
+		System.out.println(paramsMap);
+		// {day=June.1.2021}
+	}
+	
+	```
+	```js
+	$.post("calender_controller", { day: day }, function (data) {
+		//判断userExsit键的值是否是true
+		console.log('day: ', day);
+	
+		// alert(data);
+		var span = $("#s_username");
+		if (data.userExsit) {
+			//用户名存在
+			console.log(data.msg);
+		} else {
+			//用户名不存在
+			console.log(data.msg);
+		}
+	});
+	```
 
 

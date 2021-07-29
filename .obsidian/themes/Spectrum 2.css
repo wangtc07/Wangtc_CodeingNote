@@ -66,7 +66,7 @@
   --attachments: #69bceb;
   --accent-1: #a79645;
   --accent-2: #939bd6;
-  --accent-3: #ba6ea0;
+  --accent-3: #e89b23;
   --accent-4: #b78b60;
   --accent-5: #859679;
   --accent-6: #859679;
@@ -85,7 +85,7 @@
   --text-faint: #a09b80;
   --text-title-h1: #a79645;
   --text-title-h2: #939bd6;
-  --text-title-h3: #ba6ea0;
+  --text-title-h3: #e89b23;
   --text-title-h4: #b78b60;
   --text-title-h5: #859679;
   --text-link: #59a2c5;
@@ -206,6 +206,7 @@ mark strong {
 mark .cm-em,
 mark em {
   color: #8a1370;
+  /* color: #e89b23; */
 }
 
 a {

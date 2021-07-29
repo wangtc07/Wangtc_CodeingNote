@@ -46,10 +46,9 @@ https://repo.spring.io/webapp/#/artifacts/browse/tree/General/libs-release-local
 
 4. 創建普通類和方法
 ![](https://i.imgur.com/2CLBFMX.png)
-5. 創建Spring配置文件，在配置文件 配置創建的對象
-	 
-	- new >> ![](https://i.imgur.com/IWyFqOE.png)
-	- 配置User對象
+5. 創建Spring配置文件，在配置文件 配置創建的對象 
+	1. new >> ![](https://i.imgur.com/IWyFqOE.png)
+	2. 配置User對象
 		class=java檔路徑位置
 ![](https://i.imgur.com/UNYIUlM.png)
 

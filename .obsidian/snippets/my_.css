@@ -2683,8 +2683,10 @@ span.CodeMirror-selectedtext {
 }
 .cm-s-obsidian span.cm-formatting-highlight,
 .cm-s-obsidian span.cm-highlight {
-  background-color: var(--text-highlight-bg);
-  color: var(--text-normal);
+  /* background-color: var(--text-highlight-bg);
+  color: var(--text-normal); */
+  background-color: #202020;
+  color: #e89b23;
 }
 .cm-s-obsidian span.obsidian-search-match-highlight {
   color: var(--text-normal);

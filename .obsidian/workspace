@@ -26,6 +26,42 @@
           }
         },
         "group": "f565fdaafcece4a1"
+      },
+      {
+        "id": "913806f67d894862",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Web/Ajax&Json.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -3,
+              "nodeSizeMultiplier": 5,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.5620696159886156,
+              "close": true
+            }
+          }
+        },
+        "group": "f565fdaafcece4a1"
       }
     ],
     "direction": "vertical"
@@ -52,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "queryForObject",
+                "query": "date",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 476,
+    "collapsed": true
   },
   "right": {
     "id": "1bef7f9fdafbf4fb",
@@ -112,14 +149,14 @@
   "active": "b577bc216092006e",
   "lastOpenFiles": [
     "Web/Ajax&Json.md",
-    "Ajax&Json 2.md",
-    "AJAX.md",
-    "Web/JSP.md",
-    "案例/JSP 課堂作業.md",
-    "Web/JSP-Ch05_EL.md",
-    "Web/Request.md",
     "Java/Data.md",
-    "Javascript/Basic/32_Date.md",
-    "案例/格式化日期.md"
+    "案例/格式化日期.md",
+    "Web/_web.md",
+    "Web/會話技術.md",
+    "案例/JSP 課堂作業.md",
+    "案例/Session 用戶登入 驗證碼.md",
+    "Web/Spring/Spring 概述.md",
+    "Web/Spring/Spring.md",
+    "Ajax&Json 2.md"
   ]
 }

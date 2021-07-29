@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 18,
+  "obsidianCss": true,
+  "enabledCssSnippets": [
+    "my_"
+  ],
+  "cssTheme": "Spectrum 2",
+  "baseFontSizeAction": true
+}
