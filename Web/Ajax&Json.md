@@ -219,9 +219,9 @@
 
 # SpringMVC AJAX
 1. 參數前加 `@RequestBody` 
-	1. 👉 ajax 要加上 `contentType:'application/json;charset=utf-8'`
+	- 👉 ajax 要加上 `contentType:'application/json;charset=utf-8'`
 		說明傳遞的是 _json 格式_
-	1. 傳遞的 json 對象要用 `JSON.stringify(data);` 
+	- 傳遞的 json 對象要用 `JSON.stringify(data);` 
 		將動態的 Object 轉成 _靜態json String_
 	```java
 	public String calendercopy(@RequestBody Map<String,Object> paramsMap){
