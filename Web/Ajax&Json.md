@@ -204,6 +204,16 @@
 				3. 複雜java物件轉換
 					1. `List` 👉 陣列
 					2. `Map`  👉 物件格式一致
+		- 
+			```java
+			Map<String,Object> map = new HashMap<String,Object>();
+        	map.put("userExsit",true);
+        	map.put("msg","此用户名太受欢迎,请更换一个");
+        	//将map转为json，并且传递给客户端
+        	//将map转为json
+        	ObjectMapper mapper = new ObjectMapper();
+        	String mapJsonString = mapper.writeValueAsString(map);
+			```
 
 
 # 案例：

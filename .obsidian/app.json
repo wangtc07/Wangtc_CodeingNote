@@ -1,4 +1,5 @@
 {
+  "obsidianCss": true,
   "readableLineLength": false,
   "showFrontmatter": true,
   "foldHeading": true,
