@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "b655bc68cb556c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "641a99b15af0af73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Project/date.md",
+            "mode": "source"
+          }
+        },
+        "group": "b864c8f6b2550546"
+      },
+      {
+        "id": "d1069a0412d9a0e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Project/date.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b864c8f6b2550546"
+      },
+      {
+        "id": "f96e4d3a6c7fe8a4",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "_Project/date.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 3.1544615199962274,
+              "close": false
+            }
+          }
+        },
+        "group": "b864c8f6b2550546"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a1dc5733649ee61",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d9c5138acffe73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ab237bcb60d4ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c29c67cd25698df1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ModelAttribute",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54c8ae2225090028",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5a18acaabc2665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34653ae254b6edd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Project/date.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19a8fa3e64955966",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Project/date.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d1069a0412d9a0e5",
+  "lastOpenFiles": [
+    "_Project/date.md",
+    "Programer Map.md",
+    "README.md",
+    "MutipartFile.md",
+    "git.md",
+    "查詢用戶.md",
+    "Java/java base/day24捩暮.md",
+    "day02捩暮.md",
+    "Spring/Spring 例外處理.md",
+    "Spring/SpringBoot/SpringBoot.md"
+  ]
+}

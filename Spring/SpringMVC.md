@@ -1,3 +1,7 @@
+# SpringMVC
+[[SpringMVC 配置]]
+[[Spring 例外處理]]
+
 # 獲得請求數據
 - 方法參數名稱和請求的參數的 name 一致，會自動映射數據
 	```java
@@ -80,14 +84,15 @@
 	});
 	```
 
----
 
+
+
+
+---
 # 註解
-- `@ResponseBody` 不進行頁面跳轉
-- `@RequestParam` 映射請求參數名稱，和實際參數名稱
-	- `value` 請求參數名稱
-	- `required` 設定請求參數是否是必須，默認_true 必須有參數_
-	- `defaultValue` 沒有請求參數時，默認的參數值
+![[SpringMVC 註解]]
+
+
 
 
 ---
@@ -109,3 +114,9 @@ web.xml
 	<url-pattern>/*</url-pattern>
 </filter-mapping>
 ```
+
+
+---
+
+# RedirectAttributes
+[[SpringMVC RedirectAttributes]]

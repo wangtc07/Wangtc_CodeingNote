@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "75fc1f47b3b1a3dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b34e4cb6b9758cf6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spring 入門.md",
+            "mode": "source"
+          }
+        },
+        "group": "f565fdaafcece4a1"
+      },
+      {
+        "id": "b577bc216092006e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Spring 入門.md",
+            "mode": "preview"
+          }
+        },
+        "group": "f565fdaafcece4a1"
+      },
+      {
+        "id": "913806f67d894862",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Spring 入門.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": true,
+              "textFadeMultiplier": -3,
+              "nodeSizeMultiplier": 5,
+              "lineSizeMultiplier": 5,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 2.0677443325198888,
+              "close": true
+            }
+          }
+        },
+        "group": "f565fdaafcece4a1"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f95113141362957",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcf819e90565221c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29735a25a4cdc7a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c538282298aa5375",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "415",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1bef7f9fdafbf4fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "94498a5f0b343f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa5fc4bd11b9386d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring 入門.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3efb94a8a72b055d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spring 入門.md"
+              }
+            }
+          },
+          {
+            "id": "aef93d3d3e8aec7c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b34e4cb6b9758cf6",
+  "lastOpenFiles": [
+    "Spring 入門.md",
+    "Spring/Spring.md",
+    "Spring/Spring 概述.md",
+    "Spring/SpringMVC.md",
+    "Spring/Spring JPA.md",
+    "Spring/Spring JDBC.md",
+    "Hibernate/Hibernate_session.md",
+    "案例/轉換.md",
+    "Javascript/JQuery.md",
+    "Web/Ajax&Json.md"
+  ]
+}

@@ -1,0 +1,1 @@
+[使用Spring的Validator进行校验 - 盲目的拾荒者 - 博客园](https://www.cnblogs.com/niugang0920/p/12689224.html)
