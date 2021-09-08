@@ -1,5 +1,11 @@
+.cm-s-obsidian .cm-strong,
+strong {
+  color: var(--accent-1);
+  font-weight: normal;
+}
+
 .markdown-preview-view code {
-  color: #F0E68C;
+  color: #f0e68c;
   font-size: 1em;
   font-family: var(--font-monospace);
   font-weight: normal;
@@ -7,9 +13,7 @@
   border-radius: 4px;
   line-height: 25pt;
   padding: 6px 6px 6px 6px;
-  
 }
-
 
 .markdown-preview-view {
   font-size: var(--editor-font-size);
@@ -109,7 +113,6 @@
   background-color: #202020;
   color: #e89b23;
 }
-
 
 .cm-s-obsidian .HyperMD-codeblock {
   font-family: var(--font-monospace);

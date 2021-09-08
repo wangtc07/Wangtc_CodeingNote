@@ -4,28 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "9b49a612f37eca7d",
+        "id": "f4fb91faa6ec6150",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spring Security.md",
-            "mode": "source"
-          }
-        },
-        "group": "1b24409672c78b98"
-      },
-      {
-        "id": "167280198e1c3b0b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Spring Security.md",
+            "file": "Java web/Java 面試題/Java_面試.md",
             "mode": "preview"
           }
         },
-        "group": "1b24409672c78b98"
+        "group": "856d5c8383a2192f"
+      },
+      {
+        "id": "2cfe12016c027602",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java web/Java 面試題/Java_面試.md",
+            "mode": "source"
+          }
+        },
+        "group": "856d5c8383a2192f"
+      },
+      {
+        "id": "fe532b832c7db3cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java web/Java 面試題/Spring_面試.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "749482beaf86e84e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hibernate_入門.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filter",
+                "query": "ioc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring Security.md",
+                "file": "Hibernate_入門.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring Security.md"
+                "file": "Hibernate_入門.md"
               }
             }
           }
@@ -110,17 +132,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b49a612f37eca7d",
+  "active": "749482beaf86e84e",
   "lastOpenFiles": [
-    "Spring Security.md",
-    "Web/Filter.md",
-    "Spring/SpringMVC.md",
-    "Web/數據庫連接池.md",
-    "Java/java base/day22捩暮.md",
-    "Web/_web.md",
-    "Spring Security 案例.md",
-    "案例/Filter 用戶登入.md",
-    "Spring Security(1).md",
-    "Spring Security(2).md"
+    "Hibernate_入門.md",
+    "Java web/Hibernate/Hibernate.md",
+    "Java web/Java 面試題/Java_面試.md",
+    "Java web/Java 面試題/Spring_面試.md",
+    "Java web/Spring/Spring 入門.md",
+    "Java web/Spring/Spring 概述.md",
+    "Java web/Spring/Spring Aop.md",
+    "Java web/Spring/Spring第一部分/Spring第一部分.md",
+    "Java web/Spring/Spring.md",
+    "Java web/Java 面試題/Java_面試 3.md"
   ]
 }
