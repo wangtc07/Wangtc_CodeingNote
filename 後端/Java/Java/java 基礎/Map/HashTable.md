@@ -1,0 +1,6 @@
+- 該類實現了一個哈希表，它將鍵映射到值。 任何非`null`對象都可以用作鍵或值。
+- 該類被改進以實現Map接口，使其成為Java Collections Framework的成員。 
+- `Hashtable`是同步的。
+	- 如果不需要線程安全實現，建議使用`HashMap`代替
+- 代替 `Hashtable`
+	-  使用 `Collections` 的 `synchronizedMap​(Map<K,​V> m)` 方法，對 `Hashtable` 進行同步

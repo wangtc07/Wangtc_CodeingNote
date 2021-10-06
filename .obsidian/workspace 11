@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "a37c7a7753dd1eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a6e782e4abbc575",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java web/Java 面試題/Java_面試.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "391020da95325a4a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6edc7e08ab6c028a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e009e90de79cac71",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c7169c1fd6750f30",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f71501274426a41",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Java web/Java 面試題/Java_面試.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6449842398942c20",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Java web/Java 面試題/Java_面試.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7a6e782e4abbc575",
+  "lastOpenFiles": [
+    "Java web/Java 面試題/Java_面試.md"
+  ]
+}

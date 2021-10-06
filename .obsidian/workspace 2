@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "bb034e357e9a83a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "94061a2bc56a2a52",
+        "type": "leaf",
+        "dimension": 52.460202604920404,
+        "state": {
+          "type": "empty",
+          "state": {}
+        },
+        "group": "747f26e46424ed99"
+      },
+      {
+        "id": "8e3820143b934e3f",
+        "type": "split",
+        "dimension": 47.539797395079596,
+        "children": [
+          {
+            "id": "e6f85e708b0ef7f4",
+            "type": "leaf",
+            "dimension": 81.65898617511522,
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "747f26e46424ed99"
+          },
+          {
+            "id": "85b61b35a24c19d5",
+            "type": "leaf",
+            "dimension": 18.34101382488479,
+            "state": {
+              "type": "outline",
+              "state": {}
+            },
+            "group": "747f26e46424ed99"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1edc668a7c371c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "76cafa63fe335f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68f6b7e4485069a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73ee4d7d9de07c99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "uerySelector",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 186
+  },
+  "right": {
+    "id": "e8f447c98969305e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50c5e7daa4c873a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a3dcf4589a39b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b767abc4eddab33f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 148.90875244140625,
+    "collapsed": true
+  },
+  "active": "94061a2bc56a2a52",
+  "lastOpenFiles": [
+    "Java/Untitled.md",
+    "Java/String.md",
+    "JDBC/JDBC_intro.md",
+    "mysql/mysql intro.md",
+    "_photo/截圖 2021-05-28 上午12.20.10.png",
+    "_photo/webMap.png",
+    "_photo/JDBC編寫步驟.png",
+    "Programer Map.md",
+    "Javascript/example/Propagation.md",
+    "Javascript/JacaScripe_note.md"
+  ]
+}

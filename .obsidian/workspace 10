@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "51ace6606bef4787",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7720f467d378aea",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "425aa8e96626f139",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b7a3cd2f7e9513",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e69f9945f5d1d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ed9d5304473c21a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:readme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b571766c2733632b",
+    "type": "split",
+    "children": [
+      {
+        "id": "49244608049aa6d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4f34361dfba9856",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c38578b8cb26ae8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7720f467d378aea",
+  "lastOpenFiles": [
+    "README.md",
+    "Git/Learn-Git-in-30-days-master/zh-tw/README.md",
+    "Git/Learn-Git-in-30-days-master/README.md",
+    "Java web/Spring/Spring JPA.md",
+    "Linux/指令.md",
+    "Linux/Linux.md"
+  ]
+}

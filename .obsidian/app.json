@@ -1,11 +1,9 @@
 {
-  "obsidianCss": true,
-  "readableLineLength": false,
-  "showFrontmatter": true,
-  "foldHeading": true,
-  "foldIndent": true,
-  "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Javascript/_Data/_photo",
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "trashOption": "local",
+  "readableLineLength": true,
   "spellcheck": false
 }

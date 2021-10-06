@@ -1,8 +1,10 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 20,
+  "cssTheme": "Spectrum",
   "enabledCssSnippets": [
     "my_"
   ],
-  "cssTheme": "Spectrum",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "translucency": false
 }

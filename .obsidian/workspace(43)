@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "b655bc68cb556c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe532b832c7db3cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java web/Java 面試題/Java_面試 _實作.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "acef704d1c1d6e82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Java web/Java 面試題/MySQL_面試.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a1dc5733649ee61",
+    "type": "split",
+    "children": [
+      {
+        "id": "21d9c5138acffe73",
+        "type": "tabs",
+        "dimension": 73.64975450081833,
+        "children": [
+          {
+            "id": "94ab237bcb60d4ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c29c67cd25698df1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "++i",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e6776e6ece74c2d9",
+        "type": "tabs",
+        "dimension": 26.350245499181668,
+        "children": [
+          {
+            "id": "34653ae254b6edd6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java web/Java 面試題/Java_面試 _實作.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19a8fa3e64955966",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java web/Java 面試題/Java_面試 _實作.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "54c8ae2225090028",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fe532b832c7db3cd",
+  "lastOpenFiles": [
+    "Java web/Java 面試題/Untitled.md",
+    "Java web/Java 面試題/Java_面試.md",
+    "Java web/Java 面試題/Spring_面試.md",
+    "演算法/_演算法.md",
+    "演算法/遞迴.md",
+    "選擇排序.md",
+    "演算法/泡沫排序.md",
+    "直接插入排序.md",
+    "演算法/案例.md",
+    "質因數分解.md"
+  ]
+}
