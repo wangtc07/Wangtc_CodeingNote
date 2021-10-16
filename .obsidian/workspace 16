@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "52685bd890dd4103",
+    "type": "split",
+    "children": [
+      {
+        "id": "579f069e53dba932",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端/angular/_angular.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5f7b62dafffb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "847717449fc7a2c7",
+        "type": "tabs",
+        "dimension": 48.71794871794871,
+        "children": [
+          {
+            "id": "5003abae1e95957e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fb603a1c7f423ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "File",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3c567769ae38ad26",
+        "type": "tabs",
+        "dimension": 30.20833333333333,
+        "children": [
+          {
+            "id": "4f9781a0394c5426",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f59995849c2f89b",
+        "type": "tabs",
+        "dimension": 21.07371794871795,
+        "children": [
+          {
+            "id": "7cd49b7c936a0bf5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "前端/angular/_angular.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.70473055352353,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.347598146793465,
+                  "repelStrength": 4.2770056083882,
+                  "linkStrength": 1,
+                  "linkDistance": 83,
+                  "scale": 1.266834555457219,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.01218795776367,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ccaea50a52eb9207",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4da308f4b1b2ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c2541f92fba15c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端/angular/_angular.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ae5ad2fee973b901",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f53ad0194fc6c978",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端/angular/_angular.md"
+              }
+            }
+          },
+          {
+            "id": "368d19c99d46f186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端/angular/_angular.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "31259247f6fd1a86",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.33331298828125,
+    "collapsed": true
+  },
+  "active": "579f069e53dba932",
+  "lastOpenFiles": [
+    "前端/angular/angular.md",
+    "前端/angular/安裝 2.md",
+    "前端/angular/安裝.md",
+    "前端/angular/未命名.md",
+    "後端/Java/Java/Java 面試題/Java_面試.md",
+    "後端/Java/Java/Java 面試題/Java_面試 _實作.md",
+    "後端/Java/Java/java 基礎/Lambda/方法引用示範.md",
+    "方法引用.md",
+    "方法引用示範.md",
+    "後端/Java/Java/java 基礎/_Java 基礎.md"
+  ]
+}

@@ -1,6 +1,6 @@
 # SpringMVC
-[[SpringMVC 配置]]
-[[Spring 例外處理]]
+- [[SpringMVC 配置]]
+- [[Spring 例外處理]]
 
 # 獲得請求數據
 - 方法參數名稱和請求的參數的 name 一致，會自動映射數據

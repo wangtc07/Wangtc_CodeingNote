@@ -1,6 +1,13 @@
 [
   "table-editor-obsidian",
-  "oz-image-plugin",
   "obsidian-imgur-plugin",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "recent-files-obsidian",
+  "obsidian-mind-map",
+  "dataview",
+  "media-extended",
+  "mx-bili-plugin",
+  "obsidian-admonition",
+  "homepage",
+  "obsidian-outliner"
 ]

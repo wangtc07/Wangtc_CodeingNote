@@ -1,4 +1,5 @@
-![[JDBC編寫步驟.png]]
+
+![](https://i.imgur.com/n13pMTl.png)
 
 # JDBC 組成
 

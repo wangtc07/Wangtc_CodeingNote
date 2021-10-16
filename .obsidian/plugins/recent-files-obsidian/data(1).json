@@ -1,0 +1,66 @@
+{
+  "recentFiles": [
+    {
+      "basename": "JavaScript",
+      "path": "前端/Javascript/Basic/JavaScript.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "19_對象",
+      "path": "前端/Javascript/Basic/19_對象.md"
+    },
+    {
+      "basename": "_JS_intro",
+      "path": "前端/Javascript/Basic/_JS_intro.md"
+    },
+    {
+      "basename": "_JavaScript intro",
+      "path": "前端/Javascript/Basic/_JavaScript intro.md"
+    },
+    {
+      "basename": "_JavaScript_note",
+      "path": "前端/Javascript/Basic/_JavaScript_note.md"
+    },
+    {
+      "basename": "Validator 校驗",
+      "path": "後端/Spring/Validator 校驗.md"
+    },
+    {
+      "basename": "_Spring security",
+      "path": "後端/Spring/Spring Security/_Spring security.md"
+    },
+    {
+      "basename": "Spring第一部分",
+      "path": "後端/Spring/Spring第一部分/Spring第一部分.md"
+    },
+    {
+      "basename": "_SpringBoot",
+      "path": "後端/Spring/SpringBoot/_SpringBoot.md"
+    },
+    {
+      "basename": "SpringBoot 整合框架",
+      "path": "後端/Spring/SpringBoot/SpringBoot 整合框架.md"
+    },
+    {
+      "basename": "Thymeleaf",
+      "path": "後端/Spring/SpringBoot/Thymeleaf.md"
+    },
+    {
+      "basename": "整合redis",
+      "path": "後端/Spring/SpringBoot/整合redis.md"
+    },
+    {
+      "basename": "Restful API",
+      "path": "後端/Spring/Restful API.md"
+    },
+    {
+      "basename": "_Spring",
+      "path": "後端/Spring/_Spring.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": 15
+}

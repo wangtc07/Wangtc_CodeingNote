@@ -1,13 +1,14 @@
 
 
 # JavaScript
-[[JavaScript]]
-
+- [[JavaScript]]
+- [[_JavaScript_note]]
+- [[_JavaScript intro]]
 # JQuery
-[[JQuery]]
+- [[JQuery]]
 
 
 
 ---
 # class
-[[Web Storage]]
+- [[Web Storage]]

@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "fee6285da032266c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "後端/Java/Java/java 基礎/Lambda/Lambda.md",
-            "mode": "source"
+        "id": "b150e801b10a7abd",
+        "type": "split",
+        "children": [
+          {
+            "id": "b51a5df1d313ab60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "後端/Spring/Spring Security/基於session的認證.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d6ebb63082d1d41f",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        },
-        "group": "1d1ce1400c527989"
-      },
-      {
-        "id": "b6d38caf72294c0d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "後端/Java/Java/java 基礎/Lambda/Lambda.md",
-            "mode": "preview"
-          }
-        },
-        "group": "1d1ce1400c527989"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -37,7 +39,7 @@
       {
         "id": "847717449fc7a2c7",
         "type": "tabs",
-        "dimension": 48.71794871794871,
+        "dimension": 34.25302826379543,
         "children": [
           {
             "id": "5003abae1e95957e",
@@ -61,38 +63,47 @@
                 "sortOrder": "alphabetical"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "3c567769ae38ad26",
-        "type": "tabs",
-        "dimension": 30.20833333333333,
-        "children": [
+          },
           {
-            "id": "4f9781a0394c5426",
+            "id": "1b89baa1c4b54989",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
+              "type": "recent-files",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "5f59995849c2f89b",
         "type": "tabs",
-        "dimension": 21.07371794871795,
+        "dimension": 65.74697173620457,
         "children": [
+          {
+            "id": "368d19c99d46f186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "後端/Spring/Spring Security/基於session的認證.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "7cd49b7c936a0bf5",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "後端/Java/Java/java 基礎/Lambda/Lambda.md",
+                "file": "後端/Spring/Spring Security/基於session的認證.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -115,7 +126,7 @@
                   "repelStrength": 4.2770056083882,
                   "linkStrength": 1,
                   "linkDistance": 83,
-                  "scale": 1.266834555457219,
+                  "scale": 1.258302463307752,
                   "close": true
                 }
               }
@@ -125,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.0121879577637
+    "width": 551.0121879577637
   },
   "right": {
     "id": "ccaea50a52eb9207",
@@ -141,9 +152,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "後端/Java/Java/java 基礎/Lambda/Lambda.md",
+                "file": "後端/Spring/Spring Security/基於session的認證.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -164,24 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Java/Java/java 基礎/Lambda/Lambda.md"
-              }
-            }
-          },
-          {
-            "id": "368d19c99d46f186",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "後端/Java/Java/java 基礎/Lambda/Lambda.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "file": "後端/Spring/Spring Security/基於session的認證.md"
               }
             }
           },
@@ -193,25 +187,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.33331298828125,
+    "width": 196.52442932128906,
     "collapsed": true
   },
-  "active": "fee6285da032266c",
+  "active": "b51a5df1d313ab60",
   "lastOpenFiles": [
-    "後端/Java/Java/java 基礎/Lambda/Lambda.md",
-    "後端/Java/Java/java 基礎/Lambda/Lambda 示範.md",
-    "後端/Java/Java/java 基礎/Lambda.md",
-    "Lambda 示範.md",
-    "Lambda.md",
-    "後端/Java/Java/java 基礎/_Java 基礎.md",
-    "後端/Java/Java/java 基礎/網路通信/網路編程.md",
-    "後端/Java/案例/TCP通信程序 案例.md",
-    "TCP通信程序 案例.md",
-    "後端/Java/Java/java 基礎/網路通信/TCP通信程序.md"
+    "後端/Spring/Spring Security/基於session的認證.md",
+    "後端/Spring/Spring Security/_Spring security.md",
+    "README.md",
+    "後端/Spring/Spring Security/Spring security 1.介紹.md",
+    "後端/Spring/_Spring.md",
+    "後端/Spring/Spring 入門.md",
+    "後端/Spring/Spring 概述.md",
+    "後端/Spring/SpringMVC.md",
+    "後端/Spring/SpringMVC 配置.md",
+    "後端/Spring/SpringMVC 註解.md"
   ]
 }

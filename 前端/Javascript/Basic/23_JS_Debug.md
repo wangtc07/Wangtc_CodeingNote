@@ -1,4 +1,7 @@
 # chrome
 - 添加到監控面板
-	- ![[add the text to watch.png]]
-	- ![[Watch.png]]
+
+
+![](https://i.imgur.com/aNIwTcH.jpg)
+
+![](https://i.imgur.com/VoopV5V.png)

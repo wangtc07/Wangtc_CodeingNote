@@ -1,10 +1,8 @@
 [SpringBoot注解最全详解(整合超详细版本)_浩瀚星空-CSDN博客_springboot注解](https://blog.csdn.net/weixin_40753536/article/details/81285046?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
 
 # 起步依賴
-
-`spring-boot-starter-parent`
-
-`spring-boot-starter-web`
+- `spring-boot-starter-parent`
+- `spring-boot-starter-web`
 
 # 配置
 
