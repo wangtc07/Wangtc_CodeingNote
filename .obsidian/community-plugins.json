@@ -9,5 +9,8 @@
   "mx-bili-plugin",
   "obsidian-admonition",
   "homepage",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-embedded-code-title",
+  "oz-image-plugin"
 ]

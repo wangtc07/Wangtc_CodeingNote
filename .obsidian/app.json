@@ -5,5 +5,11 @@
   "foldHeading": true,
   "trashOption": "local",
   "readableLineLength": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "autoConvertHtml": true
 }

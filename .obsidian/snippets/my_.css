@@ -132,21 +132,36 @@ strong {
   font-size: 1.5rem;
 }
 
+.markdown-preview-view img[alt="sm"] {
+  width: max(300px,30%);
+  max-height:auto;
+}
+.markdown-preview-view img[alt="md"] {
+  width: max(500px,50%);
+  max-height:auto;
+}
+.markdown-preview-view img[alt="lg"] {
+  width: max(1080px,70%);
+  max-height:auto;
+}
+
+/*
 .markdown-preview-view img {
-  /* z-index: 1000; */
+
   display: block;
-  width: 80%; /* experiment with values */
+  width: 80%; 
   transform-origin: 0 0;
   transition: transform 0.25s ease;
 }
 
 .markdown-preview-view img:hover {
-  -webkit-transform: scale(1); /* experiment with values */
+  -webkit-transform: scale(1); 
   transform-origin: 0 0;
   transform: scale(1.3);
 }
 
-/*  */
+
 .markdown-source-view img {
-  width: 80%; /* experiment with values */
+  width: 80%; 
 }
+*/

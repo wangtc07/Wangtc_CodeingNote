@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "網頁兩大主角",
+      "path": "前端/Css/網頁兩大主角.md"
+    },
+    {
+      "basename": "Float",
+      "path": "前端/Css/Float.md"
+    },
+    {
+      "basename": "_css",
+      "path": "前端/Css/_css.md"
+    },
+    {
+      "basename": "puglin",
+      "path": "puglin.md"
+    },
+    {
+      "basename": "templates",
+      "path": "Templates/templates.md"
+    },
+    {
+      "basename": "Programer Map",
+      "path": "Programer Map.md"
+    },
+    {
+      "basename": "Navigation Bar",
+      "path": "前端/Css/Navigation Bar.md"
+    },
+    {
       "basename": "基於session的認證",
       "path": "後端/Spring/Spring Security/基於session的認證.md"
     },
     {
       "basename": "_Spring security",
       "path": "後端/Spring/Spring Security/_Spring security.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Spring security 1.介紹",
@@ -27,38 +55,6 @@
     {
       "basename": "Spring 概述",
       "path": "後端/Spring/Spring 概述.md"
-    },
-    {
-      "basename": "SpringMVC",
-      "path": "後端/Spring/SpringMVC.md"
-    },
-    {
-      "basename": "SpringMVC 配置",
-      "path": "後端/Spring/SpringMVC 配置.md"
-    },
-    {
-      "basename": "SpringMVC 註解",
-      "path": "後端/Spring/SpringMVC 註解.md"
-    },
-    {
-      "basename": "Spring Aop",
-      "path": "後端/Spring/Spring Aop.md"
-    },
-    {
-      "basename": "SpringBoot 配置",
-      "path": "後端/Spring/SpringBoot/SpringBoot 配置.md"
-    },
-    {
-      "basename": "SpringBoot 外部配置",
-      "path": "後端/Spring/SpringBoot/SpringBoot 外部配置.md"
-    },
-    {
-      "basename": "_SpringBoot",
-      "path": "後端/Spring/SpringBoot/_SpringBoot.md"
-    },
-    {
-      "basename": "_演算法",
-      "path": "後端/演算法/_演算法.md"
     }
   ],
   "omittedPaths": [],

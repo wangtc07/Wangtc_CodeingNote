@@ -4,30 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b150e801b10a7abd",
-        "type": "split",
-        "children": [
-          {
-            "id": "b51a5df1d313ab60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "後端/Spring/Spring Security/基於session的認證.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "d6ebb63082d1d41f",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "ee4dccbf48bf4d73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -86,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Spring/Spring Security/基於session的認證.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "後端/Spring/Spring Security/基於session的認證.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 551.0121879577637
+    "width": 551.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "ccaea50a52eb9207",
@@ -152,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "後端/Spring/Spring Security/基於session的認證.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Spring/Spring Security/基於session的認證.md"
+                "file": "README.md"
               }
             }
           },
@@ -194,17 +180,17 @@
     "width": 196.52442932128906,
     "collapsed": true
   },
-  "active": "b51a5df1d313ab60",
+  "active": "ee4dccbf48bf4d73",
   "lastOpenFiles": [
-    "後端/Spring/Spring Security/基於session的認證.md",
-    "後端/Spring/Spring Security/_Spring security.md",
     "README.md",
-    "後端/Spring/Spring Security/Spring security 1.介紹.md",
-    "後端/Spring/_Spring.md",
-    "後端/Spring/Spring 入門.md",
-    "後端/Spring/Spring 概述.md",
-    "後端/Spring/SpringMVC.md",
-    "後端/Spring/SpringMVC 配置.md",
-    "後端/Spring/SpringMVC 註解.md"
+    "前端/Css/網頁兩大主角.md",
+    "前端/Css/Float.md",
+    "前端/Css/網頁兩大主角.html.md",
+    "前端/Css/_css.md",
+    "puglin.md",
+    "Templates/未命名.md",
+    "Programer Map.md",
+    "前端/Css/Float_三欄.html.md",
+    "前端/Css/Float 2.md"
   ]
 }
