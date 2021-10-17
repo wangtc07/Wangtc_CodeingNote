@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c6942f2280ee5de3",
+        "id": "fd31473fa2100eb4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool/Git/2.基本操作.md",
-            "mode": "preview"
+            "file": "Diary/211017.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool/Git/2.基本操作.md",
+                "file": "Diary/211017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tool/Git/2.基本操作.md",
+                "file": "Diary/211017.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tool/Git/2.基本操作.md",
+                "file": "Diary/211017.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Git/2.基本操作.md"
+                "file": "Diary/211017.md"
               }
             }
           },
@@ -178,17 +178,17 @@
     "width": 196.52442932128906,
     "collapsed": true
   },
-  "active": "c6942f2280ee5de3",
+  "active": "fd31473fa2100eb4",
   "lastOpenFiles": [
-    "Tool/Git/2.基本操作.md",
-    "Tool/Git/_git.md",
-    "ttt.md",
-    "Server/Linux/指令.md",
     "Diary/211017.md",
     "Templates/templates.md",
     "Templates/diary.md",
+    "ttt.md",
     "未命名.md",
     "Templates/未命名.md",
-    "Templates/diary 1.md"
+    "Templates/diary 1.md",
+    "Templates/templates 1.md",
+    "Templates/未命名 2.md",
+    "Tool/puglin.md"
   ]
 }

@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "2.基本操作",
-      "path": "Tool/Git/2.基本操作.md"
-    },
-    {
-      "basename": "_git",
-      "path": "Tool/Git/_git.md"
-    },
-    {
       "basename": "指令",
       "path": "Server/Linux/指令.md"
     },
@@ -59,6 +51,10 @@
     {
       "basename": "基於session的認證",
       "path": "後端/Spring/Spring Security/基於session的認證.md"
+    },
+    {
+      "basename": "_Spring security",
+      "path": "後端/Spring/Spring Security/_Spring security.md"
     }
   ],
   "omittedPaths": [],
