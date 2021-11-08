@@ -1,4 +1,4 @@
-# {{tp_title}}
+# {{title}}
 ```ad-info
 
 ```

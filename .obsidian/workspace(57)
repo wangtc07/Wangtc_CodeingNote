@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "52685bd890dd4103",
+    "type": "split",
+    "children": [
+      {
+        "id": "0182cfd075d32497",
+        "type": "split",
+        "children": [
+          {
+            "id": "8ee692efbb6baade",
+            "type": "leaf",
+            "dimension": 61.339522546419104,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "後端/Java/案例/用戶登入.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "6968e27cee0f50ba",
+            "type": "leaf",
+            "dimension": 38.660477453580896,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5f7b62dafffb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "847717449fc7a2c7",
+        "type": "tabs",
+        "dimension": 53.085600530856006,
+        "children": [
+          {
+            "id": "5003abae1e95957e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fb603a1c7f423ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "File",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b89baa1c4b54989",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f59995849c2f89b",
+        "type": "tabs",
+        "dimension": 46.914399469143994,
+        "children": [
+          {
+            "id": "368d19c99d46f186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "後端/Java/案例/用戶登入.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cd49b7c936a0bf5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "後端/Java/案例/用戶登入.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.70473055352353,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.347598146793465,
+                  "repelStrength": 4.2770056083882,
+                  "linkStrength": 1,
+                  "linkDistance": 83,
+                  "scale": 1.258302463307752,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 551.0121879577637
+  },
+  "right": {
+    "id": "ccaea50a52eb9207",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4da308f4b1b2ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c2541f92fba15c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "後端/Java/案例/用戶登入.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae5ad2fee973b901",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f53ad0194fc6c978",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "後端/Java/案例/用戶登入.md"
+              }
+            }
+          },
+          {
+            "id": "31259247f6fd1a86",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196.52442932128906,
+    "collapsed": true
+  },
+  "active": "8ee692efbb6baade",
+  "lastOpenFiles": [
+    "後端/Java/案例/用戶登入.md",
+    "前端/Android/UI.md",
+    "前端/Android/WebView.md",
+    "_Project/Accounting/幣種.md",
+    "後端/Java/Java/java base/day29捩暮.md",
+    "後端/Java/Java/java 基礎/多線程/線程同步.md",
+    "後端/Java/Java/java base/day11捩暮.md",
+    "_Project/Accounting/新增分類.md",
+    "後端/Java/Java/java 基礎/網路通信/網路編程.md",
+    "後端/Spring/Spring Security/Spring Security 案例.md"
+  ]
+}

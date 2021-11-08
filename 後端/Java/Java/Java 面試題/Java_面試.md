@@ -1,4 +1,5 @@
-[Java面試題整理. 本文主要針對Java常見面試考題進行彙整，未來會持續增加題目並且更新回答完整性。… | by Liu Cheng Lee | 技術學習 | Medium](https://medium.com/%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E9%99%A2/java%E9%9D%A2%E8%A9%A6%E9%A1%8C%E6%95%B4%E7%90%86-ed44d4b10437)
+- [Java面試題整理. 本文主要針對Java常見面試考題進行彙整，未來會持續增加題目並且更新回答完整性。… | by Liu Cheng Lee | 技術學習 | Medium](https://medium.com/%E7%A7%91%E6%8A%80%E7%A0%94%E7%A9%B6%E9%99%A2/java%E9%9D%A2%E8%A9%A6%E9%A1%8C%E6%95%B4%E7%90%86-ed44d4b10437)
+- [Java面试题大全（2020版）_Java笔记-CSDN博客_2020 java面试题](https://blog.csdn.net/qq_41701956/article/details/103253168?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163029442216780357232849%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=163029442216780357232849&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v29_ecpm-15-103253168.first_rank_v2_pc_rank_v29&utm_term=spring+foward&spm=1018.2226.3001.4187)
 
 
 # 面向對象

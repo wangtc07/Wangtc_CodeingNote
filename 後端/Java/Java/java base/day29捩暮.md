@@ -29,9 +29,9 @@
 ###03准备数据
 	* A: 准备数据
 		* a: 创建数据库和表结构
-			#创建数据库
+			# 创建数据库
 			create database mybase;
-			#使用数据库
+			# 使用数据库
 			use mybase;
 			###创建分类表
 			create table sort(
@@ -42,7 +42,7 @@
 			);
 			
 		* b: 向表中插入数据
-			#初始化数据
+			# 初始化数据
 			insert into sort(sname,sprice,sdesc) values('家电',2000, '优惠的促销');
 			insert into sort(sname,sprice,sdesc) values('家具',8900, '家具价格上调,原材料涨价');
 			insert into sort(sname,sprice,sdesc) values('儿童玩具',290, '赚家长的钱');

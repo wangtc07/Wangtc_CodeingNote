@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "8e44b385b364c872",
+    "type": "split",
+    "children": [
+      {
+        "id": "05b6469b065beb99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Diary/211021.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "744c4250d71bda0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae4f7c43125590a",
+        "type": "tabs",
+        "dimension": 61.16959064327485,
+        "children": [
+          {
+            "id": "7791dc0c5a018108",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "030887e8109f5c4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "grid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21e0077623eb910e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9eda94320d134920",
+        "type": "tabs",
+        "dimension": 38.83040935672515,
+        "children": [
+          {
+            "id": "2aff1d5f7829982d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Diary/211021.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 4.05656181419166,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 1.9033573983293486,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.0121879577637
+  },
+  "right": {
+    "id": "9d4cdb4fd84c6b30",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff3f3b3ee6450dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169275bf585e9d60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diary/211021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "303c4074656a40cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diary/211021.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1537a76332971000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83618e1df8d1f9b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/211021.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "05b6469b065beb99",
+  "lastOpenFiles": [
+    "Diary/211021.md",
+    "Diary/211020.md",
+    "Diary/211019.md",
+    "前端/Javascript/Basic/36_正規表達式.md",
+    "前端/Javascript/Basic/36_常用正規表達式.md",
+    "Diary/211018.md",
+    "README.md",
+    "前端/Javascript/Basic/JavaScript.md",
+    "前端/Javascript/_JS_intro.md",
+    "前端/Javascript/Javascript_JQuery_Exercises/Javascript_JQuery_Exercises.md"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "52685bd890dd4103",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d7b4a598417f73b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Personal/211017.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a5f7b62dafffb6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "847717449fc7a2c7",
+        "type": "tabs",
+        "dimension": 53.085600530856006,
+        "children": [
+          {
+            "id": "5003abae1e95957e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fb603a1c7f423ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "File",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b89baa1c4b54989",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5f59995849c2f89b",
+        "type": "tabs",
+        "dimension": 46.914399469143994,
+        "children": [
+          {
+            "id": "368d19c99d46f186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Personal/211017.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cd49b7c936a0bf5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_Personal/211017.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 2.70473055352353,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": true,
+                  "centerStrength": 0.347598146793465,
+                  "repelStrength": 4.2770056083882,
+                  "linkStrength": 1,
+                  "linkDistance": 83,
+                  "scale": 1.258302463307752,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 551.0121879577637
+  },
+  "right": {
+    "id": "ccaea50a52eb9207",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4da308f4b1b2ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c2541f92fba15c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Personal/211017.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae5ad2fee973b901",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f53ad0194fc6c978",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Personal/211017.md"
+              }
+            }
+          },
+          {
+            "id": "31259247f6fd1a86",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196.52442932128906,
+    "collapsed": true
+  },
+  "active": "7d7b4a598417f73b",
+  "lastOpenFiles": [
+    "_Personal/211017.md",
+    "Tool/Git/2.基本操作.md",
+    "Tool/Git/_git.md",
+    "ttt.md",
+    "Server/Linux/指令.md",
+    "Diary/211017.md",
+    "Templates/templates.md",
+    "Templates/diary.md",
+    "未命名.md",
+    "Templates/未命名.md"
+  ]
+}

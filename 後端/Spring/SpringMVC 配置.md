@@ -28,3 +28,10 @@
 				1. `@Configuration` 聲明為配置類別
 				2. `@EnableWebMvc` 聲明為MVC配置
 				3. `@ComponentScan` 掃描有bean所在的package
+
+
+```ad-info
+# web.xml 配置
+[詳解Spring mvc的web.xml配置說明 | 程式前沿 (codertw.com)](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/311861/)
+
+```

@@ -165,3 +165,11 @@ strong {
   width: 80%; 
 }
 */
+
+
+ul{
+  margin-block-end: 0;
+}
+ul li{
+  margin-bottom: 0;
+}

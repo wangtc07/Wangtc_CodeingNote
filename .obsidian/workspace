@@ -1,15 +1,25 @@
 {
   "main": {
-    "id": "52685bd890dd4103",
+    "id": "8e44b385b364c872",
     "type": "split",
     "children": [
       {
-        "id": "c6942f2280ee5de3",
+        "id": "b26065a8cb15da20",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "e328417a0f7ca699",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool/Git/2.基本操作.md",
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -18,16 +28,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1a5f7b62dafffb6f",
+    "id": "744c4250d71bda0f",
     "type": "split",
     "children": [
       {
-        "id": "847717449fc7a2c7",
+        "id": "9ae4f7c43125590a",
         "type": "tabs",
-        "dimension": 53.085600530856006,
+        "dimension": 61.16959064327485,
         "children": [
           {
-            "id": "5003abae1e95957e",
+            "id": "7791dc0c5a018108",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,22 +45,22 @@
             }
           },
           {
-            "id": "9fb603a1c7f423ba",
+            "id": "030887e8109f5c4c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "File",
+                "query": "tag:#初始化数据",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "1b89baa1c4b54989",
+            "id": "21e0077623eb910e",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -60,34 +70,17 @@
         ]
       },
       {
-        "id": "5f59995849c2f89b",
+        "id": "9eda94320d134920",
         "type": "tabs",
-        "dimension": 46.914399469143994,
+        "dimension": 38.83040935672515,
         "children": [
           {
-            "id": "368d19c99d46f186",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tool/Git/2.基本操作.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7cd49b7c936a0bf5",
+            "id": "2aff1d5f7829982d",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tool/Git/2.基本操作.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,15 +95,15 @@
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 2.70473055352353,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 4.05656181419166,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0.347598146793465,
-                  "repelStrength": 4.2770056083882,
-                  "linkStrength": 1,
-                  "linkDistance": 83,
-                  "scale": 1.258302463307752,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 7.86247256766642,
+                  "linkStrength": 0.247841989758595,
+                  "linkDistance": 30,
+                  "scale": 0.6136662605058115,
                   "close": true
                 }
               }
@@ -120,75 +113,84 @@
       }
     ],
     "direction": "horizontal",
-    "width": 551.0121879577637
+    "width": 399.0121879577637
   },
   "right": {
-    "id": "ccaea50a52eb9207",
+    "id": "9d4cdb4fd84c6b30",
     "type": "split",
     "children": [
       {
-        "id": "4d4da308f4b1b2ed",
+        "id": "ff3f3b3ee6450dd4",
         "type": "tabs",
         "children": [
           {
-            "id": "93c2541f92fba15c",
+            "id": "169275bf585e9d60",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "backlink",
               "state": {
-                "file": "Tool/Git/2.基本操作.md",
-                "linksCollapsed": true,
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ae5ad2fee973b901",
+            "id": "303c4074656a40cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1537a76332971000",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "f53ad0194fc6c978",
+            "id": "83618e1df8d1f9b7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tool/Git/2.基本操作.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "31259247f6fd1a86",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 196.52442932128906,
+    "width": 300,
     "collapsed": true
   },
-  "active": "c6942f2280ee5de3",
+  "active": "e328417a0f7ca699",
   "lastOpenFiles": [
-    "Tool/Git/2.基本操作.md",
-    "Tool/Git/_git.md",
-    "ttt.md",
-    "Server/Linux/指令.md",
-    "Diary/211017.md",
-    "Templates/templates.md",
-    "Templates/diary.md",
-    "未命名.md",
-    "Templates/未命名.md",
-    "Templates/diary 1.md"
+    "README.md",
+    "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
+    "後端/Java/Java/java base/day29捩暮.md",
+    "後端/Spring/SpringMVC RedirectAttributes.md",
+    "前端/Vue/Vue intro.md",
+    "前端/Vue/_Vue.md",
+    "前端/angular/_angular.md",
+    "前端/angular/安裝.md",
+    "Diary/211104.md",
+    "前端/Vue/style 標籤.md"
   ]
 }

@@ -1,4 +1,5 @@
 {
   "folder": "_Personal",
-  "format": "YYMMDD"
+  "format": "YYMMDD",
+  "template": "Templates/diary"
 }

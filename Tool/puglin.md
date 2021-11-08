@@ -18,3 +18,20 @@ Hello!
 
 This is in the original admonition.
 ```
+
+
+
+````ad-info
+
+```ad-bug
+title: I'm Nested!
+~~~javascript
+throw new Error("Oops, I'm a bug.");
+~~~
+```
+
+```javascript
+console.log("Hello!");
+```
+
+```

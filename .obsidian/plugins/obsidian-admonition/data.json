@@ -1,10 +1,10 @@
 {
   "userAdmonitions": {},
-  "syntaxHighlight": false,
-  "copyButton": false,
-  "version": "6.3.4",
+  "syntaxHighlight": true,
+  "copyButton": true,
+  "version": "6.3.8",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "syncLinks": true,
-  "enableMarkdownProcessor": false
+  "enableMarkdownProcessor": true
 }

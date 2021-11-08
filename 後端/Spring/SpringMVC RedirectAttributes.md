@@ -1,6 +1,6 @@
 # RedirectAttributes
 
-#重定向、跳轉
+# 重定向、跳轉
 
 > `RedirectAttributes` 是 Spring mvc 3.1 版本之後出來的一個功能，專門用於*重定向之後還能帶參數跳轉*的的工具類
 
