@@ -1,6 +1,6 @@
 [.vue文件中style標簽的幾個標識符 - SegmentFault 思否](https://segmentfault.com/a/1190000015652687)
 
-### 解決方案一: `scoped`方案
+# 解決方案一: `scoped`方案
 
 -   將無法進行樣式覆蓋的部分拿出來
 -   使用原生的css樣式, 添加scoped
@@ -13,3 +13,16 @@
 	} 
 </style>
 ```
+
+
+# 深度選擇器
+```css
+/* Vue 2.x */
+.parent ::v-deep .child { ... }
+```
+
+```css
+/* Vue 3.0 */
+.parent ::v-deep(.child) { ... }
+```
+

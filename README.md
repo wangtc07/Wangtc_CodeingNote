@@ -23,6 +23,8 @@
 - [[_JS_intro]]
 - [[_angular]]
 - [[_Vue]]
+- [[_node.js]]
+- [[_javascript 函式庫]]
 
 ## tool
 - [[_git]]

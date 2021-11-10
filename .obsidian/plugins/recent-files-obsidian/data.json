@@ -1,64 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Vue 單一元件檔與 Vue CLI",
       "path": "前端/Vue/Vue 單一元件檔與 Vue CLI.md"
-    },
-    {
-      "basename": "day29捩暮",
-      "path": "後端/Java/Java/java base/day29捩暮.md"
-    },
-    {
-      "basename": "SpringMVC RedirectAttributes",
-      "path": "後端/Spring/SpringMVC RedirectAttributes.md"
     },
     {
       "basename": "Vue intro",
       "path": "前端/Vue/Vue intro.md"
     },
     {
+      "basename": "Refs",
+      "path": "前端/Vue/Refs.md"
+    },
+    {
+      "basename": "style",
+      "path": "前端/Vue/style.md"
+    },
+    {
       "basename": "_Vue",
       "path": "前端/Vue/_Vue.md"
     },
     {
-      "basename": "_angular",
-      "path": "前端/angular/_angular.md"
+      "basename": "agentSetting",
+      "path": "_Project/富邦/agentSetting.md"
     },
     {
-      "basename": "安裝",
-      "path": "前端/angular/安裝.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "211104",
-      "path": "Diary/211104.md"
+      "basename": "Element UI",
+      "path": "前端/Vue/Element/Element UI.md"
     },
     {
-      "basename": "style 標籤",
-      "path": "前端/Vue/style 標籤.md"
+      "basename": "_javascript 函式庫",
+      "path": "前端/javascript 函式庫/_javascript 函式庫.md"
     },
     {
-      "basename": "Vue.js 的元件系統",
-      "path": "前端/Vue/Vue.js 的元件系統.md"
+      "basename": "metadata",
+      "path": "後端/Spring/Thymeleaf/metadata.md"
     },
     {
-      "basename": "元件之間的溝通傳遞",
-      "path": "前端/Vue/元件之間的溝通傳遞.md"
+      "basename": "頁面跳轉",
+      "path": "前端/Vue/Vue 案例/頁面跳轉.md"
+    },
+    {
+      "basename": "nvm",
+      "path": "前端/node.js/nvm.md"
+    },
+    {
+      "basename": "test dataview",
+      "path": "後端/Spring/Thymeleaf/test dataview.md"
+    },
+    {
+      "basename": "標准表達式語法",
+      "path": "後端/Spring/Thymeleaf/標准表達式語法.md"
     },
     {
       "basename": "puglin",
-      "path": "Tool/puglin.md"
-    },
-    {
-      "basename": "元件系統的特性",
-      "path": "前端/Vue/元件系統的特性.md"
-    },
-    {
-      "basename": "Vue Error",
-      "path": "前端/Vue/Vue Error.md"
+      "path": "puglin.md"
     }
   ],
   "omittedPaths": [],

@@ -14,12 +14,23 @@
         }
       },
       {
-        "id": "e328417a0f7ca699",
+        "id": "284afe33a0b4e828",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_Project/富邦/agentSetting.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b86247930093f456",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
             "mode": "preview"
           }
         }
@@ -50,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#初始化数据",
+                "query": "thymeleaf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +91,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,13 +109,13 @@
                   "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 4.05656181419166,
                   "lineSizeMultiplier": 5,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0,
                   "repelStrength": 7.86247256766642,
                   "linkStrength": 0.247841989758595,
                   "linkDistance": 30,
-                  "scale": 0.6136662605058115,
-                  "close": true
+                  "scale": 0.5943354674829946,
+                  "close": false
                 }
               }
             }
@@ -113,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.0121879577637
+    "width": 371.5121879577637
   },
   "right": {
     "id": "9d4cdb4fd84c6b30",
@@ -129,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md"
               }
             }
           }
@@ -180,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e328417a0f7ca699",
+  "active": "b86247930093f456",
   "lastOpenFiles": [
-    "README.md",
     "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
-    "後端/Java/Java/java base/day29捩暮.md",
-    "後端/Spring/SpringMVC RedirectAttributes.md",
     "前端/Vue/Vue intro.md",
+    "前端/Vue/Refs.md",
+    "前端/Vue/style.md",
     "前端/Vue/_Vue.md",
-    "前端/angular/_angular.md",
-    "前端/angular/安裝.md",
-    "Diary/211104.md",
-    "前端/Vue/style 標籤.md"
+    "_Project/富邦/agentSetting.md",
+    "README.md",
+    "前端/Vue/Element/Element UI.md",
+    "_Project/未命名.md",
+    "前端/javascript 函式庫/_javascript 函式庫.md"
   ]
 }

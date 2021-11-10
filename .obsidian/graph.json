@@ -11,56 +11,63 @@
       "query": "path:前端",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16760331
       }
     },
     {
       "query": "path:後端/Java",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11204166
       }
     },
     {
       "query": "path:後端/演算法",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 9830154
       }
     },
     {
       "query": "path:後端/Spring",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 7654400
       }
     },
     {
       "query": "path:後端",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5345024
       }
     },
     {
       "query": "path:Database",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 3835647
       }
     },
     {
       "query": "path:Server",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 20172
+      }
+    },
+    {
+      "query": "file:README",
+      "color": {
+        "a": 1,
+        "rgb": 16471559
       }
     },
     {
       "query": "path:Diary",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 665948
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.40351152610810087,
+  "scale": 0.4029744624846693,
   "close": false
 }

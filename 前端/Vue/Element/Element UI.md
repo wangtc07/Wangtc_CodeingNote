@@ -27,7 +27,8 @@
 - [[popover]]
 
 
-
+# label
+[前端基礎學習-el-form的label過長換行+根據label長度自動撐開_小夭的博客-程序員宅基地 - 程序員宅基地 (cxyzjd.com)](https://www.cxyzjd.com/article/m0_47146037/113698660)
 
 
 

@@ -11,5 +11,6 @@
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
-  "autoConvertHtml": true
+  "autoConvertHtml": true,
+  "defaultViewMode": "preview"
 }
