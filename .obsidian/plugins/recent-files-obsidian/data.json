@@ -1,64 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "Vue 單一元件檔與 Vue CLI",
-      "path": "前端/Vue/Vue 單一元件檔與 Vue CLI.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Vue intro",
       "path": "前端/Vue/Vue intro.md"
     },
     {
-      "basename": "Refs",
-      "path": "前端/Vue/Refs.md"
-    },
-    {
-      "basename": "style",
-      "path": "前端/Vue/style.md"
-    },
-    {
       "basename": "_Vue",
       "path": "前端/Vue/_Vue.md"
     },
     {
-      "basename": "agentSetting",
-      "path": "_Project/富邦/agentSetting.md"
+      "basename": "Vue.toole",
+      "path": "前端/Vue/Vue.toole.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "entity",
+      "path": "_Project/富邦/entity.md"
     },
     {
-      "basename": "Element UI",
-      "path": "前端/Vue/Element/Element UI.md"
+      "basename": "_ info",
+      "path": "_Project/富邦/_ info.md"
     },
     {
-      "basename": "_javascript 函式庫",
-      "path": "前端/javascript 函式庫/_javascript 函式庫.md"
+      "basename": "送審流程",
+      "path": "_Project/富邦/送審流程.md"
     },
     {
-      "basename": "metadata",
-      "path": "後端/Spring/Thymeleaf/metadata.md"
+      "basename": "代理人設定",
+      "path": "_Project/富邦/代理人設定/代理人設定.md"
     },
     {
-      "basename": "頁面跳轉",
-      "path": "前端/Vue/Vue 案例/頁面跳轉.md"
+      "basename": "被代理人 autoComplelt",
+      "path": "_Project/富邦/被代理人 autoComplelt.md"
     },
     {
-      "basename": "nvm",
-      "path": "前端/node.js/nvm.md"
+      "basename": "被代理人API",
+      "path": "_Project/富邦/被代理人API.md"
     },
     {
-      "basename": "test dataview",
-      "path": "後端/Spring/Thymeleaf/test dataview.md"
+      "basename": "代理人設定 查詢API",
+      "path": "_Project/富邦/代理人設定/代理人設定 查詢API.md"
     },
     {
-      "basename": "標准表達式語法",
-      "path": "後端/Spring/Thymeleaf/標准表達式語法.md"
+      "basename": "代理人設定 新增",
+      "path": "_Project/富邦/代理人設定/代理人設定 新增.md"
     },
     {
-      "basename": "puglin",
-      "path": "puglin.md"
+      "basename": "36_正規表達式",
+      "path": "前端/Javascript/Basic/36_正規表達式.md"
+    },
+    {
+      "basename": "36_常用正規表達式",
+      "path": "前端/Javascript/Basic/36_常用正規表達式.md"
+    },
+    {
+      "basename": "代理人設定 編輯",
+      "path": "_Project/富邦/代理人設定/代理人設定 編輯.md"
     }
   ],
   "omittedPaths": [],

@@ -30,3 +30,16 @@
 > _忽略Entity屬性映射_至資料表
 > @transient 就是在給某個javabean上需要添加個屬性，但是這個屬性你又不希望給存到數據庫中去，僅僅是做個臨時變量，用一下。
 > _不修改已經存在數據庫的數據的數據結構。_
+
+
+
+
+
+
+# note
+
+```ad-note
+title: findById
+
+回傳 `Optional<Foo>` 
+用 `.get()` 方法取出 `Foo`

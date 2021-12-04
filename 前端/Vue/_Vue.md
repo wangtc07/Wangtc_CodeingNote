@@ -12,6 +12,8 @@
 # Vue 案例
 - [[Vue 案例]]
 
+# Vue.toole
+- [[Vue.toole]]
 
 
 ---

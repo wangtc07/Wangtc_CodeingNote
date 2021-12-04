@@ -2,7 +2,7 @@
 - `@ResponseBody` 不進行頁面跳轉
 
 # Request
-- `@RequestParam` 映射請求參數名稱，和實際參數名稱
+- `@RequestParam`  映射請求參數名稱，和實際參數名稱
 	- `value` 請求參數名稱
 	- `required` 設定請求參數是否是必須，默認_true 必須有參數_
 	- `defaultValue` 沒有請求參數時，默認的參數值

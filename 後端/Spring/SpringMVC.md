@@ -62,7 +62,7 @@
 	```
 	
 - 獲取集合類型參數，ajax提交
-	以 _JAON_ 格式提交
+	以 _JAON_ 格式提交，`POST` 請求
 	controller 參數加上 `@RequestBody` 以相應類型接收數據
 	```java	
 	@RequestMapping(value="/quick15")

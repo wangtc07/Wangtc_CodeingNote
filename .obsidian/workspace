@@ -4,33 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b26065a8cb15da20",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "284afe33a0b4e828",
+        "id": "d084626993501836",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Project/富邦/agentSetting.md",
+            "file": "_Project/富邦/_ info.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "75596d029e0e75ef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Project/富邦/代理人設定/代理人設定 新增.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "b86247930093f456",
+        "id": "edb4bf97b0ef0a08",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
+            "file": "前端/Vue/Vue intro.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0e83c25343793095",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
             "mode": "preview"
           }
         }
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thymeleaf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -114,8 +126,8 @@
                   "repelStrength": 7.86247256766642,
                   "linkStrength": 0.247841989758595,
                   "linkDistance": 30,
-                  "scale": 0.5943354674829946,
-                  "close": false
+                  "scale": 0.26864964165644584,
+                  "close": true
                 }
               }
             }
@@ -140,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Vue/Vue 單一元件檔與 Vue CLI.md"
+                "file": "README.md"
               }
             }
           }
@@ -191,17 +203,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b86247930093f456",
+  "active": "0e83c25343793095",
   "lastOpenFiles": [
-    "前端/Vue/Vue 單一元件檔與 Vue CLI.md",
-    "前端/Vue/Vue intro.md",
-    "前端/Vue/Refs.md",
-    "前端/Vue/style.md",
-    "前端/Vue/_Vue.md",
-    "_Project/富邦/agentSetting.md",
     "README.md",
-    "前端/Vue/Element/Element UI.md",
-    "_Project/未命名.md",
-    "前端/javascript 函式庫/_javascript 函式庫.md"
+    "前端/Vue/Vue intro.md",
+    "前端/Vue/_Vue.md",
+    "前端/Vue/Vue.toole.md",
+    "_Project/富邦/entity.md",
+    "_Project/富邦/_ info.md",
+    "_Project/富邦/送審流程.md",
+    "_Project/富邦/代理人設定/代理人設定.md",
+    "_Project/富邦/被代理人 autoComplelt.md",
+    "_Project/富邦/被代理人API.md"
   ]
 }

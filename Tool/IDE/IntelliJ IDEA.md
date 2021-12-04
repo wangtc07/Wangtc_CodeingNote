@@ -16,8 +16,12 @@
 
 
 # 快捷建
+[[IntelliJ 快捷鍵]]
 `CTRL-ALT-T` 包圍代碼塊
 `alt+insert`（_MAC_里使用组合键：`Command+n`）Mac Intellij Idea get/set
+
+# Refactor
+[[IntelliJ Refactor]]
 
 
 
@@ -29,3 +33,25 @@
 
 ```
 
+
+# idea中 google-java-format 插件的使用
+```ad-info
+- [[google style]]
+
+```
+
+
+```ad-error
+title: IntelliJ IDEA 使用maven管理 yml : found character '@'錯誤
+
+- 使用將啟動項目打包替換為maven打包
+- 
+![](https://i.imgur.com/jcdVyLx.png)
+
+
+![](https://i.imgur.com/NmZl4kr.png)
+
+
+![](https://i.imgur.com/VL1b44A.png)
+
+```

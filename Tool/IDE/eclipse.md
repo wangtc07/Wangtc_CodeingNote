@@ -4,3 +4,5 @@
 - 自動補全等號左邊
 	- `command + 1` `L`
 	- `command + 2` `L`
+
+- `.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`

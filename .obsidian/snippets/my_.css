@@ -71,9 +71,21 @@ strong {
   background-color: var(--background-primary);
 }
 .markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
+  /* max-width: 2000px; */
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > *:not(iframe) {
+  max-width: none;
+  width: 100%;
+}
+.markdown-source-view.is-readable-line-width .CodeMirror {
+  max-width: none;
+}
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer > div > *:not(iframe) {
+  max-width: none;
+  width: 100%;
 }
 .markdown-preview-view .internal-link {
   text-decoration: underline;
@@ -132,17 +144,17 @@ strong {
   font-size: 1.5rem;
 }
 
-.markdown-preview-view img[alt="sm"] {
-  width: max(300px,30%);
-  max-height:auto;
+.markdown-preview-view img[alt='sm'] {
+  width: max(300px, 30%);
+  max-height: auto;
 }
-.markdown-preview-view img[alt="md"] {
-  width: max(500px,50%);
-  max-height:auto;
+.markdown-preview-view img[alt='md'] {
+  width: max(500px, 50%);
+  max-height: auto;
 }
-.markdown-preview-view img[alt="lg"] {
-  width: max(1080px,70%);
-  max-height:auto;
+.markdown-preview-view img[alt='lg'] {
+  width: max(1080px, 70%);
+  max-height: auto;
 }
 
 /*
@@ -166,10 +178,16 @@ strong {
 }
 */
 
-
-ul{
+ul {
   margin-block-end: 0;
 }
-ul li{
+ul li {
   margin-bottom: 0;
+}
+
+/* 箭頭 */
+
+.markdown-preview-view .list-collapse-indicator {
+  margin-left: -60px;
+  padding: 0 8px;
 }
