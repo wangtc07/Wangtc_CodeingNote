@@ -1,0 +1,1 @@
+如果參數是一個 [`ref`](https://v3.cn.vuejs.org/api/refs-api.html#ref)，則返回內部值，否則返回參數本身。這是 `val = isRef(val) ? val.value : val` 的語法糖函數。

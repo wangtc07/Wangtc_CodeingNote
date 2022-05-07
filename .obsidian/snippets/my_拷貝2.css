@@ -1,0 +1,47 @@
+:root,
+.theme-dark {
+  /* Overriding Obsidian Variables */
+  --default-font: "SF Mono", monospace !important;
+}
+
+* {
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-family: "SF Mono";
+}
+.markdown-preview-view code {
+  color: #f77070;
+  font-size: 1em;
+  font-family: var(--font-monospace);
+  font-weight: normal;
+  background-color: var(--background-primary-alt);
+  border-radius: 4px;
+  line-height: 1.75rem;
+  padding: 6px 6px 6px 6px;
+}
+
+.cm-s-obsidian .HyperMD-codeblock {
+  font-family: var(--font-monospace);
+  line-height: 1.3;
+  color: #928b78;
+  font-size: 1em;
+}
+
+.cm-s-obsidian .HyperMD-codeblock span.cm-inline-code {
+  display: inherit;
+  background-color: inherit;
+  border: inherit;
+  padding: inherit;
+  font-size: inherit;
+}
+
+.cm-s-obsidian pre.HyperMD-codeblock,
+.cm-s-obsidian span.cm-inline-code {
+  color: #f77070;
+}
+
+.markdown-source-view.is-readable-line-width .CodeMirror {
+  max-width: 100%;
+}
