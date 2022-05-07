@@ -23,3 +23,34 @@ setup() {
   return { msg }
 }
 ```
+
+# toRefs
+[toRefs](https://v3.vuejs.org/api/refs-api.html#torefs)
+
+[ref,toRef,toRefs三者的使用及區別_潛龍入淵 - MdEditor](https://www.gushiciku.cn/pl/gbfK/zh-tw)
+
+
+```js
+const state = reactive({
+  foo: 1,
+  bar: 2
+})
+
+const stateAsRefs = toRefs(state)
+/*
+Type of stateAsRefs:
+
+{
+  foo: Ref<number>,
+  bar: Ref<number>
+}
+*/
+
+// The ref and the original property is "linked"
+state.foo++
+console.log(stateAsRefs.foo.value) // 2
+
+stateAsRefs.foo.value++
+console.log(state.foo) // 3
+```
+

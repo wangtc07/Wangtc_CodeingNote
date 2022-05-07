@@ -6,9 +6,10 @@
 - [[_Java 基礎]]
 - [[_web]]
 - [[_Hibernate]]
-- [[_Spring]]
-	- [[_SpringBoot]]
-	- [[_Spring security]]
+- [[_Spring]](./後端/Spring/_Spring.md)
+	- [[_SpringBoot]](./後端/Spring/SpringBoot/_SpringBoot.md)
+	- [[_Spring security]](./後端/Spring/Spring Security/_Spring security.md)
+- [[python]](Python/_python.md)
 
 ## Server
 - [[_Linux]]
@@ -32,4 +33,4 @@
 - [[eclipse]]
 
 # puglin
-- [[puglin]]
+- [[puglin]](./puglin.md)

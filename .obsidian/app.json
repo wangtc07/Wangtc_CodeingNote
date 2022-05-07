@@ -8,9 +8,13 @@
   "spellcheck": false,
   "foldIndent": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./img",
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "autoConvertHtml": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "legacyEditor": true,
+  "livePreview": true,
+  "promptDelete": false,
+  "fileSortOrder": "alphabetical"
 }

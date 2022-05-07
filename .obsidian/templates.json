@@ -1,4 +1,5 @@
 {
   "folder": "Templates",
-  "dateFormat": "YYMMDD"
+  "dateFormat": "YYYY-MM-DD ddd",
+  "timeFormat": "HH:mm"
 }

@@ -1,10 +1,13 @@
 # JPA 
 [JPA詳解](https://blog.csdn.net/qq_42897427/article/details/102510101?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162818800516780262582197%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=162818800516780262582197&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_v2~rank_v29-6-102510101.first_rank_v2_pc_rank_v29&utm_term=jpa+calendar&spm=1018.2226.3001.4187)
 
-
-
+- where null
+[JPA多條件查詢時 部分條件為空_小z的博客-CSDN博客_java查詢條件為空時](https://blog.csdn.net/devilac/article/details/109526238)
 
 ---
+
+# jpa轉換
+[[轉換]]
 
 
 # 註解

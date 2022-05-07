@@ -1,43 +1,10 @@
 {
   "main": {
-    "id": "8e44b385b364c872",
+    "id": "f6fd2865c030f89e",
     "type": "split",
     "children": [
       {
-        "id": "d084626993501836",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_Project/富邦/_ info.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "75596d029e0e75ef",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_Project/富邦/代理人設定/代理人設定 新增.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "edb4bf97b0ef0a08",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "前端/Vue/Vue intro.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "0e83c25343793095",
+        "id": "3bfae111fd9df78f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -51,16 +18,23 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "744c4250d71bda0f",
+    "id": "6c4b882eeaf2b2bc",
     "type": "split",
     "children": [
       {
-        "id": "9ae4f7c43125590a",
+        "id": "4f9b0c39d2893ccd",
         "type": "tabs",
-        "dimension": 61.16959064327485,
         "children": [
           {
-            "id": "7791dc0c5a018108",
+            "id": "7708fb0e11aa1fc5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cccf9f29d10801b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +42,7 @@
             }
           },
           {
-            "id": "030887e8109f5c4c",
+            "id": "ae6d62f5cdcdad3e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,73 +55,24 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "21e0077623eb910e",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
-      },
-      {
-        "id": "9eda94320d134920",
-        "type": "tabs",
-        "dimension": 38.83040935672515,
-        "children": [
-          {
-            "id": "2aff1d5f7829982d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "README.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 4.05656181419166,
-                  "lineSizeMultiplier": 5,
-                  "collapse-forces": true,
-                  "centerStrength": 0,
-                  "repelStrength": 7.86247256766642,
-                  "linkStrength": 0.247841989758595,
-                  "linkDistance": 30,
-                  "scale": 0.26864964165644584,
-                  "close": true
-                }
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 371.5121879577637
+    "width": 300
   },
   "right": {
-    "id": "9d4cdb4fd84c6b30",
+    "id": "d194266f22ca4cd0",
     "type": "split",
     "children": [
       {
-        "id": "ff3f3b3ee6450dd4",
+        "id": "c4506fa52049d20e",
         "type": "tabs",
         "children": [
           {
-            "id": "169275bf585e9d60",
+            "id": "78a66d5402b67941",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -164,7 +89,7 @@
             }
           },
           {
-            "id": "303c4074656a40cd",
+            "id": "65fa1e43b4a8f008",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -176,7 +101,7 @@
             }
           },
           {
-            "id": "1537a76332971000",
+            "id": "e91cb8a9ea256d2c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -187,7 +112,7 @@
             }
           },
           {
-            "id": "83618e1df8d1f9b7",
+            "id": "5b4825db814802c8",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -195,25 +120,33 @@
                 "file": "README.md"
               }
             }
+          },
+          {
+            "id": "2ce140799cabef90",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0e83c25343793095",
+  "active": "3bfae111fd9df78f",
   "lastOpenFiles": [
     "README.md",
-    "前端/Vue/Vue intro.md",
-    "前端/Vue/_Vue.md",
-    "前端/Vue/Vue.toole.md",
-    "_Project/富邦/entity.md",
-    "_Project/富邦/_ info.md",
-    "_Project/富邦/送審流程.md",
-    "_Project/富邦/代理人設定/代理人設定.md",
-    "_Project/富邦/被代理人 autoComplelt.md",
-    "_Project/富邦/被代理人API.md"
+    "_Project/富邦/_後端.md",
+    "_Project/富邦/_狀態.md",
+    "_Project/富邦/_前端.md",
+    "後端/Java/Java/java 基礎/IO/IO_copy_txt.md",
+    "後端/Java/Java/java 基礎/_Java 基礎.md",
+    "後端/Java/Java/java 基礎/IO/IO_Buffered_Line.md",
+    "後端/Java/Java/java 基礎/IO/IO.md",
+    "_Project/富邦/_note/_info.md",
+    "_Project/富邦/_note/_note.md"
   ]
 }

@@ -19,10 +19,12 @@
 	1. 校驗
 		[[Validator 校驗]]
 1. SpringBoot
-	[SpringBoot 配置](SpringBoot%20配置.md)
+	[SpringBoot 配置]
 
 1. Spring Security
 	[[_Spring security]]
+2. Spring jpa
+	[[Spring JPA]]
 
 
 

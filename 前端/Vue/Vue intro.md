@@ -19,3 +19,6 @@
 ---
 # style
 - [[style]]
+
+# Vuex
+[[Vue] Vuex 是什麼? 怎麼用? — Getters (3/5) | by itsems | itsems_frontend | Medium](https://medium.com/itsems-frontend/vue-vuex3-getters-6e83a6f7235e)

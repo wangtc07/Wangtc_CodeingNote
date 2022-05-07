@@ -1,10 +1,10 @@
 {
-  "baseFontSize": 20,
-  "cssTheme": "Spectrum",
+  "baseFontSize": 21,
   "enabledCssSnippets": [
-    "my_"
+    "my_拷貝2"
   ],
-  "baseFontSizeAction": true,
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "baseFontSizeAction": true
 }

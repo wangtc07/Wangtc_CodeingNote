@@ -30,6 +30,7 @@
 ## FileOutputStream
 
 用於將數據寫入`File`
+
 `FileOutputStream (String name)` 創建文件輸出流，以指定的名稱寫入文件
 
 - 做了三件事

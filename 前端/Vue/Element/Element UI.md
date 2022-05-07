@@ -38,3 +38,17 @@
 
 	![](https://i.imgur.com/BXFJ5Jl.png)
 	![](https://i.imgur.com/SCSPl3H.png)
+[element-ui Form表單驗證規則全解](https://www.itread01.com/content/1545621854.html)
+
+[vue3+element-plus實現form表單提交_Lschange的博客-CSDN博客](https://blog.csdn.net/Lschange/article/details/112373162)
+
+## 只有紅點，不用預設必填驗證
+[如何在element UI框架表單裡的必填項做表單驗證_liangxhblog的博客-CSDN博客_element必填項標識](https://blog.csdn.net/liangxhblog/article/details/81145425?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-2.nonecase)
+
+去掉required，寫 `class="is-required"` ,必填的限制在綁定的rules裡寫。
+
+## prop
+`prop:=""` 裡面的屬性要跟 `v-model=""` 裡面的屬性名稱一樣
+
+
+##

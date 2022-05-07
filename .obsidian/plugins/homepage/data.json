@@ -1,7 +1,7 @@
 {
   "defaultNote": "README",
   "workspaceEnabled": false,
-  "hasRibbonIcon": true,
-  "openMode": "Keep open notes",
+  "hasRibbonIcon": false,
+  "openMode": "Replace last note",
   "alwaysPreview": false
 }

@@ -5,62 +5,202 @@
       "path": "README.md"
     },
     {
-      "basename": "Vue intro",
-      "path": "前端/Vue/Vue intro.md"
+      "basename": "_後端",
+      "path": "_Project/富邦/_後端.md"
     },
     {
-      "basename": "_Vue",
-      "path": "前端/Vue/_Vue.md"
+      "basename": "_狀態",
+      "path": "_Project/富邦/_狀態.md"
     },
     {
-      "basename": "Vue.toole",
-      "path": "前端/Vue/Vue.toole.md"
+      "basename": "_前端",
+      "path": "_Project/富邦/_前端.md"
     },
     {
-      "basename": "entity",
-      "path": "_Project/富邦/entity.md"
+      "basename": "IO_copy_txt",
+      "path": "後端/Java/Java/java 基礎/IO/IO_copy_txt.md"
     },
     {
-      "basename": "_ info",
-      "path": "_Project/富邦/_ info.md"
+      "basename": "_Java 基礎",
+      "path": "後端/Java/Java/java 基礎/_Java 基礎.md"
     },
     {
-      "basename": "送審流程",
-      "path": "_Project/富邦/送審流程.md"
+      "basename": "IO_Buffered_Line",
+      "path": "後端/Java/Java/java 基礎/IO/IO_Buffered_Line.md"
     },
     {
-      "basename": "代理人設定",
-      "path": "_Project/富邦/代理人設定/代理人設定.md"
+      "basename": "IO",
+      "path": "後端/Java/Java/java 基礎/IO/IO.md"
     },
     {
-      "basename": "被代理人 autoComplelt",
-      "path": "_Project/富邦/被代理人 autoComplelt.md"
+      "basename": "_info",
+      "path": "_Project/富邦/_note/_info.md"
     },
     {
-      "basename": "被代理人API",
-      "path": "_Project/富邦/被代理人API.md"
+      "basename": "_note",
+      "path": "_Project/富邦/_note/_note.md"
     },
     {
-      "basename": "代理人設定 查詢API",
-      "path": "_Project/富邦/代理人設定/代理人設定 查詢API.md"
+      "basename": "01 背包問題",
+      "path": "後端/演算法/01 背包問題.md"
     },
     {
-      "basename": "代理人設定 新增",
-      "path": "_Project/富邦/代理人設定/代理人設定 新增.md"
+      "basename": "_TODO_",
+      "path": "_Project/富邦/_note/_TODO_.md"
     },
     {
-      "basename": "36_正規表達式",
-      "path": "前端/Javascript/Basic/36_正規表達式.md"
+      "basename": "_演算法",
+      "path": "後端/演算法/_演算法.md"
     },
     {
-      "basename": "36_常用正規表達式",
-      "path": "前端/Javascript/Basic/36_常用正規表達式.md"
+      "basename": "0701-n",
+      "path": "_Project/富邦/批次/0701-n.md"
     },
     {
-      "basename": "代理人設定 編輯",
-      "path": "_Project/富邦/代理人設定/代理人設定 編輯.md"
+      "basename": "JSON查詢的SQL語法",
+      "path": "_Project/富邦/JSON查詢的SQL語法.md"
+    },
+    {
+      "basename": "IO_ArrayList to txt",
+      "path": "後端/Java/Java/java 基礎/IO/IO_ArrayList to txt.md"
+    },
+    {
+      "basename": "puglin",
+      "path": "puglin.md"
+    },
+    {
+      "basename": "IO_OutputStreamWriter_5Way_Demo",
+      "path": "後端/Java/Java/java 基礎/IO/IO_OutputStreamWriter_5Way_Demo.md"
+    },
+    {
+      "basename": "day25捩暮",
+      "path": "後端/Java/Java/java base/day25捩暮.md"
+    },
+    {
+      "basename": "day24捩暮",
+      "path": "後端/Java/Java/java base/day24捩暮.md"
+    },
+    {
+      "basename": "day23捩暮",
+      "path": "後端/Java/Java/java base/day23捩暮.md"
+    },
+    {
+      "basename": "0701",
+      "path": "_Project/富邦/批次/0701.md"
+    },
+    {
+      "basename": "_TODO_Agent_QA",
+      "path": "_Project/富邦/_note/_TODO_Agent_QA.md"
+    },
+    {
+      "basename": "_TODO_220218~",
+      "path": "_Project/富邦/_note/_TODO_220218~.md"
+    },
+    {
+      "basename": "API 申請單改派查詢 清單",
+      "path": "_Project/富邦/申請單改派/API 申請單改派查詢 清單.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "_Project/富邦/_note/_DONE/未命名.md"
+    },
+    {
+      "basename": "Java_面試",
+      "path": "後端/Java/Java/Java 面試題/Java_面試.md"
+    },
+    {
+      "basename": "HashTable",
+      "path": "後端/Java/Java/java 基礎/Map/HashTable.md"
+    },
+    {
+      "basename": "BAT-0701_每小時 利害關係人外圍介接檔案上傳",
+      "path": "_Project/富邦/批次/BAT-0701_每小時 利害關係人外圍介接檔案上傳.md"
+    },
+    {
+      "basename": "API 每五分鐘 資料快照-利關人歷史檔快照",
+      "path": "_Project/富邦/利害關係人本人資料查詢/API 每五分鐘 資料快照-利關人歷史檔快照.md"
+    },
+    {
+      "basename": "API 放行 Service 寫入快照資訊",
+      "path": "_Project/富邦/利害關係人本人資料查詢/API 放行 Service 寫入快照資訊.md"
+    },
+    {
+      "basename": "API 歷史紀錄查詢",
+      "path": "_Project/富邦/利害關係人本人資料查詢/API 歷史紀錄查詢.md"
+    },
+    {
+      "basename": "API 即時記錄查詢",
+      "path": "_Project/富邦/利害關係人本人資料查詢/API 即時記錄查詢.md"
+    },
+    {
+      "basename": "API 半年資料確認",
+      "path": "_Project/富邦/利害關係人本人資料查詢/API 半年資料確認.md"
+    },
+    {
+      "basename": "_info",
+      "path": "_Project/富邦/利害關係人本人資料查詢/_info.md"
+    },
+    {
+      "basename": "_TODO_220211~",
+      "path": "_Project/富邦/_note/_DONE/_TODO_220211~.md"
+    },
+    {
+      "basename": "mac kill port",
+      "path": "Server/MacOS/mac kill port.md"
+    },
+    {
+      "basename": "_MacOS",
+      "path": "Server/MacOS/_MacOS.md"
+    },
+    {
+      "basename": "IO_複製文件夾",
+      "path": "後端/Java/Java/java 基礎/IO/IO_複製文件夾.md"
+    },
+    {
+      "basename": "IO_Reader_Writer_copy_java",
+      "path": "後端/Java/Java/java 基礎/IO/IO_Reader_Writer_copy_java.md"
+    },
+    {
+      "basename": "上傳 下載",
+      "path": "_Project/富邦/檔案模組/上傳 下載.md"
+    },
+    {
+      "basename": "_SpringBoot",
+      "path": "後端/Spring/SpringBoot/_SpringBoot.md"
+    },
+    {
+      "basename": "SpringBoot 整合框架",
+      "path": "後端/Spring/SpringBoot/SpringBoot 整合框架.md"
+    },
+    {
+      "basename": "整合redis",
+      "path": "後端/Spring/SpringBoot/整合redis.md"
+    },
+    {
+      "basename": "_Spring",
+      "path": "後端/Spring/_Spring.md"
+    },
+    {
+      "basename": "MutipartFile",
+      "path": "後端/Spring/MutipartFile.md"
+    },
+    {
+      "basename": "Spring JDBC",
+      "path": "後端/Spring/Spring JDBC.md"
+    },
+    {
+      "basename": "Spring JPA",
+      "path": "後端/Spring/Spring JPA.md"
+    },
+    {
+      "basename": "轉換",
+      "path": "後端/Java/案例/轉換.md"
+    },
+    {
+      "basename": "Lambda 示範",
+      "path": "後端/Java/Java/java 基礎/Lambda/Lambda 示範.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": 15
+  "maxLength": null
 }
