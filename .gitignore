@@ -3,3 +3,5 @@
 /_Project/*
 .trash
 .idea
+.DS_Store
+.\.*
