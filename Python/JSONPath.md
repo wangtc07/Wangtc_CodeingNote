@@ -1,10 +1,10 @@
-# github上有它的應用:[JsonPath](https://github.com/json-path/JsonPath)
+### github上有它的應用:[JsonPath](https://github.com/json-path/JsonPath)
 
-# 1. 介紹
+#### 1. 介紹
 
 類似於XPath在xml文檔中的定位，JsonPath表達式通常是用來路徑檢索或設置Json的。其表達式可以接受“dot–notation”和“bracket–notation”格式，例如$.store.book[0].title、$[‘store’][‘book’][0][‘title’]
 
-# 2 操作符
+#### 2 操作符
 
 | 符號 | 描述 |
 | --- | --- |
@@ -18,7 +18,7 @@
 | [start:end] | 數組片段，區間爲[start,end),不包含end |
 | [?(<expression>)] | **過濾器表達式**，表達式結果必須是boolean |
 
-# 3. 函數
+#### 3. 函數
 
 可以在JsonPath表達式執行後進行調用，其輸入值爲表達式的結果。
 
@@ -30,7 +30,7 @@
 | stddev() | 獲取數值類型數組的標準差 | Double |
 | length() | 獲取數值類型數組的長度 | Integer |
 
-# 4. 過濾器
+#### 4. 過濾器
 
 過濾器是用於過濾數組的邏輯表達式，一個通常的表達式形如：[?(@.age > 18)]，可以通過邏輯表達式&&或||組合多個過濾器表達式，例如[?(@.price < 10 && @.category == ‘fiction’)]，字符串必須用單引號或雙引號包圍，例如[?(@.color == ‘blue’)] or [?(@.color == “blue”)]。
 
@@ -48,7 +48,7 @@
 | size | size of left (array or string) should match right |
 | empty | 判空符號 |
 
-# 5. 示例
+#### 5. 示例
 
 ```json
 {
@@ -89,5 +89,4 @@
     "expensive": 10
 }
 ```
-
 

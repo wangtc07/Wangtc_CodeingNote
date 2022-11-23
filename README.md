@@ -12,6 +12,7 @@
 - [[python]](Python/_python.md)
 
 ## Server
+
 - [[_Linux]]
 
 ## Databaes

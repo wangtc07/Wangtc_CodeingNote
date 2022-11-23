@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview"
+            "file": "前端/Html/note.md",
+            "mode": "source"
           }
         }
       }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "正則",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d194266f22ca4cd0",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "前端/Html/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "前端/Html/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "前端/Html/note.md"
               }
             }
           },
@@ -134,19 +135,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "3bfae111fd9df78f",
   "lastOpenFiles": [
+    "前端/Html/note.md",
+    "Database/MSSQL/note.md",
+    "前端/正則.md",
+    "Database/MSSQL/mac 安裝.md",
     "README.md",
-    "_Project/富邦/_後端.md",
+    "_Project/富邦/申請單改派/API 申請單改派查詢 清單.md",
     "_Project/富邦/_狀態.md",
+    "_Project/富邦/_後端.md",
     "_Project/富邦/_前端.md",
-    "後端/Java/Java/java 基礎/IO/IO_copy_txt.md",
-    "後端/Java/Java/java 基礎/_Java 基礎.md",
-    "後端/Java/Java/java 基礎/IO/IO_Buffered_Line.md",
-    "後端/Java/Java/java 基礎/IO/IO.md",
-    "_Project/富邦/_note/_info.md",
-    "_Project/富邦/_note/_note.md"
+    "後端/Java/Java/java 基礎/IO/IO_copy_txt.md"
   ]
 }

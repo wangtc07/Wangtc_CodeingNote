@@ -5,4 +5,8 @@
 	- `command + 1` `L`
 	- `command + 2` `L`
 
-- `.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`
+- Window -> preferences -> Java -> Editor -> Content assist -> Auto-Activation
+  - `.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ`
+
+
+ [eclipse setting.md](eclipse setting.md) 

@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "note",
+      "path": "前端/Html/note.md"
+    },
+    {
+      "basename": "note",
+      "path": "Database/MSSQL/note.md"
+    },
+    {
+      "basename": "正則",
+      "path": "前端/正則.md"
+    },
+    {
+      "basename": "mac 安裝",
+      "path": "Database/MSSQL/mac 安裝.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "_後端",
-      "path": "_Project/富邦/_後端.md"
+      "basename": "API 申請單改派查詢 清單",
+      "path": "_Project/富邦/申請單改派/API 申請單改派查詢 清單.md"
     },
     {
       "basename": "_狀態",
       "path": "_Project/富邦/_狀態.md"
+    },
+    {
+      "basename": "_後端",
+      "path": "_Project/富邦/_後端.md"
     },
     {
       "basename": "_前端",
@@ -97,10 +117,6 @@
       "path": "_Project/富邦/_note/_TODO_220218~.md"
     },
     {
-      "basename": "API 申請單改派查詢 清單",
-      "path": "_Project/富邦/申請單改派/API 申請單改派查詢 清單.md"
-    },
-    {
       "basename": "未命名",
       "path": "_Project/富邦/_note/_DONE/未命名.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "MutipartFile",
       "path": "後端/Spring/MutipartFile.md"
-    },
-    {
-      "basename": "Spring JDBC",
-      "path": "後端/Spring/Spring JDBC.md"
-    },
-    {
-      "basename": "Spring JPA",
-      "path": "後端/Spring/Spring JPA.md"
-    },
-    {
-      "basename": "轉換",
-      "path": "後端/Java/案例/轉換.md"
-    },
-    {
-      "basename": "Lambda 示範",
-      "path": "後端/Java/Java/java 基礎/Lambda/Lambda 示範.md"
     }
   ],
   "omittedPaths": [],
