@@ -2,7 +2,7 @@
 
 ## 後端
 
-- [[_演算法]]
+- [_演算法](./後端/演算法/_演算法.md)
 - [[_Java 基礎]]
 - [[_web]]
 - [[_Hibernate]]
@@ -35,3 +35,6 @@
 
 # puglin
 - [[puglin]](./puglin.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQyMDY5MDkxNV19
+-->
